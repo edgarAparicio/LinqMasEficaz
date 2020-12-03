@@ -1,0 +1,7 @@
+C:\Users\edgar\source\repos\LinqToXML\bin\Debug\LinqToXML.exe.config
+C:\Users\edgar\source\repos\LinqToXML\bin\Debug\LinqToXML.exe
+C:\Users\edgar\source\repos\LinqToXML\bin\Debug\LinqToXML.pdb
+C:\Users\edgar\source\repos\LinqToXML\obj\Debug\LinqToXML.csprojAssemblyReference.cache
+C:\Users\edgar\source\repos\LinqToXML\obj\Debug\LinqToXML.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\LinqToXML\obj\Debug\LinqToXML.exe
+C:\Users\edgar\source\repos\LinqToXML\obj\Debug\LinqToXML.pdb

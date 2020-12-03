@@ -1,0 +1,7 @@
+C:\Users\edgar\source\repos\IntroduccionLinq\bin\Debug\IntroduccionLinq.exe.config
+C:\Users\edgar\source\repos\IntroduccionLinq\bin\Debug\IntroduccionLinq.exe
+C:\Users\edgar\source\repos\IntroduccionLinq\bin\Debug\IntroduccionLinq.pdb
+C:\Users\edgar\source\repos\IntroduccionLinq\obj\Debug\IntroduccionLinq.csprojAssemblyReference.cache
+C:\Users\edgar\source\repos\IntroduccionLinq\obj\Debug\IntroduccionLinq.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\IntroduccionLinq\obj\Debug\IntroduccionLinq.exe
+C:\Users\edgar\source\repos\IntroduccionLinq\obj\Debug\IntroduccionLinq.pdb

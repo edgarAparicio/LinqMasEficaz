@@ -1,0 +1,1208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Carros xmlns:ex="http://pluralsight.com/cars/2016/ex" xmlns="http://pluralsight.com/cars/2016">
+  <ex:Carro Nombre="4C" Rendimiento="28" Fabricante="ALFA ROMEO" />
+  <ex:Carro Nombre="V12 Vantage S" Rendimiento="14" Fabricante="Aston Martin Lagonda Ltd" />
+  <ex:Carro Nombre="V8 Vantage" Rendimiento="16" Fabricante="Aston Martin Lagonda Ltd" />
+  <ex:Carro Nombre="V8 Vantage" Rendimiento="15" Fabricante="Aston Martin Lagonda Ltd" />
+  <ex:Carro Nombre="V8 Vantage S" Rendimiento="16" Fabricante="Aston Martin Lagonda Ltd" />
+  <ex:Carro Nombre="V8 Vantage S" Rendimiento="15" Fabricante="Aston Martin Lagonda Ltd" />
+  <ex:Carro Nombre="Vantage GT" Rendimiento="16" Fabricante="Aston Martin Lagonda Ltd" />
+  <ex:Carro Nombre="Vantage GT" Rendimiento="15" Fabricante="Aston Martin Lagonda Ltd" />
+  <ex:Carro Nombre="TT Roadster quattro" Rendimiento="26" Fabricante="Audi" />
+  <ex:Carro Nombre="M4 GTS" Rendimiento="19" Fabricante="BMW" />
+  <ex:Carro Nombre="Z4 sDrive28i" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="Z4 sDrive28i" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="Z4 sDrive35i" Rendimiento="20" Fabricante="BMW" />
+  <ex:Carro Nombre="Z4 sDrive35is" Rendimiento="20" Fabricante="BMW" />
+  <ex:Carro Nombre="CORVETTE" Rendimiento="16" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CORVETTE" Rendimiento="20" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CORVETTE" Rendimiento="18" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CORVETTE" Rendimiento="21" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="Viper SRT" Rendimiento="15" Fabricante="Dodge" />
+  <ex:Carro Nombre="488 GTB" Rendimiento="18" Fabricante="Ferrari" />
+  <ex:Carro Nombre="488 GTB" Rendimiento="18" Fabricante="Ferrari" />
+  <ex:Carro Nombre="F12" Rendimiento="13" Fabricante="Ferrari" />
+  <ex:Carro Nombre="F12" Rendimiento="13" Fabricante="Ferrari" />
+  <ex:Carro Nombre="F12 tdf" Rendimiento="13" Fabricante="Ferrari" />
+  <ex:Carro Nombre="F12 tdf" Rendimiento="12" Fabricante="Ferrari" />
+  <ex:Carro Nombre="F60 America" Rendimiento="13" Fabricante="Ferrari" />
+  <ex:Carro Nombre="F60 America" Rendimiento="13" Fabricante="Ferrari" />
+  <ex:Carro Nombre="CR-Z" Rendimiento="37" Fabricante="Honda" />
+  <ex:Carro Nombre="CR-Z" Rendimiento="34" Fabricante="Honda" />
+  <ex:Carro Nombre="F-TYPE Convertible" Rendimiento="22" Fabricante="Jaguar" />
+  <ex:Carro Nombre="F-TYPE Convertible Manual" Rendimiento="19" Fabricante="Jaguar" />
+  <ex:Carro Nombre="F-TYPE Coupe" Rendimiento="22" Fabricante="Jaguar" />
+  <ex:Carro Nombre="F-TYPE Coupe Manual" Rendimiento="19" Fabricante="Jaguar" />
+  <ex:Carro Nombre="F-TYPE R AWD Convertible" Rendimiento="18" Fabricante="Jaguar" />
+  <ex:Carro Nombre="F-TYPE R AWD Coupe" Rendimiento="18" Fabricante="Jaguar" />
+  <ex:Carro Nombre="F-TYPE R Convertible" Rendimiento="18" Fabricante="Jaguar" />
+  <ex:Carro Nombre="F-TYPE S AWD Convertible" Rendimiento="21" Fabricante="Jaguar" />
+  <ex:Carro Nombre="F-TYPE S AWD Coupe" Rendimiento="21" Fabricante="Jaguar" />
+  <ex:Carro Nombre="F-TYPE S Convertible" Rendimiento="22" Fabricante="Jaguar" />
+  <ex:Carro Nombre="F-TYPE S Convertible Manual" Rendimiento="18" Fabricante="Jaguar" />
+  <ex:Carro Nombre="F-TYPE S Coupe" Rendimiento="22" Fabricante="Jaguar" />
+  <ex:Carro Nombre="F-TYPE S Coupe Manual" Rendimiento="18" Fabricante="Jaguar" />
+  <ex:Carro Nombre="Aventador Coupe" Rendimiento="13" Fabricante="Lamborghini" />
+  <ex:Carro Nombre="Aventador Roadster" Rendimiento="12" Fabricante="Lamborghini" />
+  <ex:Carro Nombre="Huracan" Rendimiento="17" Fabricante="Lamborghini" />
+  <ex:Carro Nombre="Huracan Spyder" Rendimiento="16" Fabricante="Lamborghini" />
+  <ex:Carro Nombre="MX-5" Rendimiento="30" Fabricante="MAZDA" />
+  <ex:Carro Nombre="MX-5" Rendimiento="30" Fabricante="MAZDA" />
+  <ex:Carro Nombre="570S Coupe" Rendimiento="19" Fabricante="McLaren" />
+  <ex:Carro Nombre="650S Coupe" Rendimiento="18" Fabricante="McLaren" />
+  <ex:Carro Nombre="650S Spider" Rendimiento="18" Fabricante="McLaren" />
+  <ex:Carro Nombre="675LT Coupe" Rendimiento="18" Fabricante="McLaren" />
+  <ex:Carro Nombre="AMG GT S" Rendimiento="18" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="AMG SL 63" Rendimiento="19" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="AMG SL 65" Rendimiento="17" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="AMG SLK 55" Rendimiento="22" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="SL 400" Rendimiento="23" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="SL 550" Rendimiento="19" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="SLK 300" Rendimiento="28" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="SLK 350" Rendimiento="24" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="Smart fortwo (COUPE)" Rendimiento="36" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="Smart fortwo (COUPE)" Rendimiento="35" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="370Z" Rendimiento="21" Fabricante="NISSAN" />
+  <ex:Carro Nombre="370Z" Rendimiento="21" Fabricante="NISSAN" />
+  <ex:Carro Nombre="370Z Roadster" Rendimiento="21" Fabricante="NISSAN" />
+  <ex:Carro Nombre="370Z Roadster" Rendimiento="20" Fabricante="NISSAN" />
+  <ex:Carro Nombre="Huayra Coupe" Rendimiento="13" Fabricante="Pagani Automobili S.p.A." />
+  <ex:Carro Nombre="911 GT3" Rendimiento="17" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 GT3RS" Rendimiento="16" Fabricante="Porsche" />
+  <ex:Carro Nombre="Boxster" Rendimiento="26" Fabricante="Porsche" />
+  <ex:Carro Nombre="Boxster" Rendimiento="24" Fabricante="Porsche" />
+  <ex:Carro Nombre="Boxster GTS" Rendimiento="25" Fabricante="Porsche" />
+  <ex:Carro Nombre="Boxster GTS" Rendimiento="22" Fabricante="Porsche" />
+  <ex:Carro Nombre="Boxster S" Rendimiento="24" Fabricante="Porsche" />
+  <ex:Carro Nombre="Boxster S" Rendimiento="23" Fabricante="Porsche" />
+  <ex:Carro Nombre="Boxster Spyder" Rendimiento="20" Fabricante="Porsche" />
+  <ex:Carro Nombre="Cayman" Rendimiento="26" Fabricante="Porsche" />
+  <ex:Carro Nombre="Cayman" Rendimiento="24" Fabricante="Porsche" />
+  <ex:Carro Nombre="Cayman GT4" Rendimiento="20" Fabricante="Porsche" />
+  <ex:Carro Nombre="Cayman GTS" Rendimiento="25" Fabricante="Porsche" />
+  <ex:Carro Nombre="Cayman GTS" Rendimiento="22" Fabricante="Porsche" />
+  <ex:Carro Nombre="Cayman S" Rendimiento="24" Fabricante="Porsche" />
+  <ex:Carro Nombre="Cayman S" Rendimiento="23" Fabricante="Porsche" />
+  <ex:Carro Nombre="DB9" Rendimiento="15" Fabricante="Aston Martin Lagonda Ltd" />
+  <ex:Carro Nombre="Vanquish" Rendimiento="16" Fabricante="Aston Martin Lagonda Ltd" />
+  <ex:Carro Nombre="California T" Rendimiento="19" Fabricante="Ferrari" />
+  <ex:Carro Nombre="California T" Rendimiento="18" Fabricante="Ferrari" />
+  <ex:Carro Nombre="500" Rendimiento="27" Fabricante="FIAT" />
+  <ex:Carro Nombre="500" Rendimiento="30" Fabricante="FIAT" />
+  <ex:Carro Nombre="500" Rendimiento="30" Fabricante="FIAT" />
+  <ex:Carro Nombre="500" Rendimiento="34" Fabricante="FIAT" />
+  <ex:Carro Nombre="500 Abarth" Rendimiento="27" Fabricante="FIAT" />
+  <ex:Carro Nombre="500 Abarth" Rendimiento="30" Fabricante="FIAT" />
+  <ex:Carro Nombre="Mini Cooper Convertible" Rendimiento="31" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper Convertible" Rendimiento="31" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper S Convertible" Rendimiento="29" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper S Convertible" Rendimiento="27" Fabricante="Mini" />
+  <ex:Carro Nombre="911 Carrera" Rendimiento="23" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera" Rendimiento="22" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera 4" Rendimiento="23" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera 4" Rendimiento="22" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera 4 Cabriolet" Rendimiento="22" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera 4 Cabriolet" Rendimiento="22" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera 4 GTS" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera 4 GTS" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera 4 GTS Cabriolet" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera 4 GTS Cabriolet" Rendimiento="20" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera 4S" Rendimiento="22" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera 4S" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera 4S Cabriolet" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera 4S Cabriolet" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera Cabriolet" Rendimiento="23" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera Cabriolet" Rendimiento="22" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera GTS" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera GTS" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera GTS Cabriolet" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera GTS Cabriolet" Rendimiento="20" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera S" Rendimiento="23" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera S" Rendimiento="22" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera S Cabriolet" Rendimiento="22" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Carrera S Cabriolet" Rendimiento="22" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Targa 4" Rendimiento="22" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Targa 4" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Targa 4 GTS" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Targa 4 GTS" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Targa 4S" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Targa 4S" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Turbo" Rendimiento="20" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Turbo Cabriolet" Rendimiento="20" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Turbo S" Rendimiento="20" Fabricante="Porsche" />
+  <ex:Carro Nombre="911 Turbo S Cabriolet" Rendimiento="20" Fabricante="Porsche" />
+  <ex:Carro Nombre="FR-S" Rendimiento="28" Fabricante="SCION" />
+  <ex:Carro Nombre="FR-S" Rendimiento="25" Fabricante="SCION" />
+  <ex:Carro Nombre="BRZ" Rendimiento="28" Fabricante="Subaru" />
+  <ex:Carro Nombre="BRZ" Rendimiento="25" Fabricante="Subaru" />
+  <ex:Carro Nombre="Rapide S" Rendimiento="17" Fabricante="Aston Martin Lagonda Ltd" />
+  <ex:Carro Nombre="A3" Rendimiento="27" Fabricante="Audi" />
+  <ex:Carro Nombre="A3 Cabriolet" Rendimiento="28" Fabricante="Audi" />
+  <ex:Carro Nombre="A3 Cabriolet quattro" Rendimiento="26" Fabricante="Audi" />
+  <ex:Carro Nombre="A3 quattro" Rendimiento="27" Fabricante="Audi" />
+  <ex:Carro Nombre="A5 Cabriolet quattro" Rendimiento="24" Fabricante="Audi" />
+  <ex:Carro Nombre="A5 quattro" Rendimiento="25" Fabricante="Audi" />
+  <ex:Carro Nombre="A5 quattro" Rendimiento="26" Fabricante="Audi" />
+  <ex:Carro Nombre="S3" Rendimiento="26" Fabricante="Audi" />
+  <ex:Carro Nombre="S5" Rendimiento="21" Fabricante="Audi" />
+  <ex:Carro Nombre="S5" Rendimiento="20" Fabricante="Audi" />
+  <ex:Carro Nombre="S5 Cabriolet" Rendimiento="21" Fabricante="Audi" />
+  <ex:Carro Nombre="TT Coupe quattro" Rendimiento="26" Fabricante="Audi" />
+  <ex:Carro Nombre="TTS Coupe" Rendimiento="25" Fabricante="Audi" />
+  <ex:Carro Nombre="Continental GT Convertible" Rendimiento="17" Fabricante="Bentley" />
+  <ex:Carro Nombre="Continental GT Convertible" Rendimiento="15" Fabricante="Bentley" />
+  <ex:Carro Nombre="228i" Rendimiento="27" Fabricante="BMW" />
+  <ex:Carro Nombre="228i" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="228i Convertible" Rendimiento="27" Fabricante="BMW" />
+  <ex:Carro Nombre="228i xDrive" Rendimiento="27" Fabricante="BMW" />
+  <ex:Carro Nombre="228i xDrive Convertible" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="428i Convertible" Rendimiento="27" Fabricante="BMW" />
+  <ex:Carro Nombre="428i xDrive Convertible" Rendimiento="25" Fabricante="BMW" />
+  <ex:Carro Nombre="435i Convertible" Rendimiento="24" Fabricante="BMW" />
+  <ex:Carro Nombre="435i xDrive Convertible" Rendimiento="23" Fabricante="BMW" />
+  <ex:Carro Nombre="640i Convertible" Rendimiento="24" Fabricante="BMW" />
+  <ex:Carro Nombre="640i Coupe" Rendimiento="24" Fabricante="BMW" />
+  <ex:Carro Nombre="640i xDrive Convertible" Rendimiento="23" Fabricante="BMW" />
+  <ex:Carro Nombre="640i xDrive Coupe" Rendimiento="23" Fabricante="BMW" />
+  <ex:Carro Nombre="650i Convertible" Rendimiento="20" Fabricante="BMW" />
+  <ex:Carro Nombre="650i Coupe" Rendimiento="20" Fabricante="BMW" />
+  <ex:Carro Nombre="650i xDrive Convertible" Rendimiento="18" Fabricante="BMW" />
+  <ex:Carro Nombre="650i xDrive Coupe" Rendimiento="19" Fabricante="BMW" />
+  <ex:Carro Nombre="M2" Rendimiento="23" Fabricante="BMW" />
+  <ex:Carro Nombre="M2" Rendimiento="21" Fabricante="BMW" />
+  <ex:Carro Nombre="M235i" Rendimiento="24" Fabricante="BMW" />
+  <ex:Carro Nombre="M235i" Rendimiento="22" Fabricante="BMW" />
+  <ex:Carro Nombre="M235i Convertible" Rendimiento="24" Fabricante="BMW" />
+  <ex:Carro Nombre="M235i Convertible" Rendimiento="22" Fabricante="BMW" />
+  <ex:Carro Nombre="M235i xDrive" Rendimiento="23" Fabricante="BMW" />
+  <ex:Carro Nombre="M235i xDrive Convertible" Rendimiento="23" Fabricante="BMW" />
+  <ex:Carro Nombre="M4 Convertible" Rendimiento="19" Fabricante="BMW" />
+  <ex:Carro Nombre="M4 Convertible" Rendimiento="20" Fabricante="BMW" />
+  <ex:Carro Nombre="M6 Convertible" Rendimiento="16" Fabricante="BMW" />
+  <ex:Carro Nombre="M6 Convertible" Rendimiento="17" Fabricante="BMW" />
+  <ex:Carro Nombre="M6 Coupe" Rendimiento="16" Fabricante="BMW" />
+  <ex:Carro Nombre="M6 Coupe" Rendimiento="17" Fabricante="BMW" />
+  <ex:Carro Nombre="CASCADA" Rendimiento="23" Fabricante="Buick" />
+  <ex:Carro Nombre="SPARK" Rendimiento="35" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="SPARK" Rendimiento="34" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="Fiesta FWD" Rendimiento="31" Fabricante="Ford" />
+  <ex:Carro Nombre="Fiesta FWD" Rendimiento="31" Fabricante="Ford" />
+  <ex:Carro Nombre="Fiesta SFE FWD" Rendimiento="36" Fabricante="Ford" />
+  <ex:Carro Nombre="MUSTANG" Rendimiento="25" Fabricante="Ford" />
+  <ex:Carro Nombre="MUSTANG" Rendimiento="25" Fabricante="Ford" />
+  <ex:Carro Nombre="MUSTANG" Rendimiento="22" Fabricante="Ford" />
+  <ex:Carro Nombre="MUSTANG" Rendimiento="21" Fabricante="Ford" />
+  <ex:Carro Nombre="MUSTANG" Rendimiento="19" Fabricante="Ford" />
+  <ex:Carro Nombre="MUSTANG" Rendimiento="19" Fabricante="Ford" />
+  <ex:Carro Nombre="MUSTANG CONVERTIBLE" Rendimiento="24" Fabricante="Ford" />
+  <ex:Carro Nombre="MUSTANG CONVERTIBLE" Rendimiento="18" Fabricante="Ford" />
+  <ex:Carro Nombre="SHELBY GT350 MUSTANG" Rendimiento="16" Fabricante="Ford" />
+  <ex:Carro Nombre="Genesis Coupe" Rendimiento="19" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Genesis Coupe" Rendimiento="19" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="RC 200t" Rendimiento="26" Fabricante="LEXUS" />
+  <ex:Carro Nombre="RC 300 AWD" Rendimiento="21" Fabricante="LEXUS" />
+  <ex:Carro Nombre="RC 350" Rendimiento="22" Fabricante="LEXUS" />
+  <ex:Carro Nombre="RC 350 AWD" Rendimiento="21" Fabricante="LEXUS" />
+  <ex:Carro Nombre="RC F" Rendimiento="19" Fabricante="LEXUS" />
+  <ex:Carro Nombre="GRANTURISMO" Rendimiento="16" Fabricante="MASERATI" />
+  <ex:Carro Nombre="GRANTURISMO CONVERTIBLE" Rendimiento="15" Fabricante="MASERATI" />
+  <ex:Carro Nombre="E 400 (convertible)" Rendimiento="24" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="E 400 (coupe)" Rendimiento="24" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="E 400 4MATIC (coupe)" Rendimiento="23" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="E 550 (convertible)" Rendimiento="20" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="E 550 (coupe)" Rendimiento="21" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="MINI COOPER HARDTOP 2 DOOR" Rendimiento="31" Fabricante="Mini" />
+  <ex:Carro Nombre="MINI COOPER HARDTOP 2 DOOR" Rendimiento="32" Fabricante="Mini" />
+  <ex:Carro Nombre="MINI COOPER HARDTOP 4 DOOR" Rendimiento="31" Fabricante="Mini" />
+  <ex:Carro Nombre="MINI COOPER HARDTOP 4 DOOR" Rendimiento="33" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper S Hardtop 2 door" Rendimiento="29" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper S Hardtop 2 door" Rendimiento="27" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper S Hardtop 4 door" Rendimiento="29" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper S Hardtop 4 door" Rendimiento="27" Fabricante="Mini" />
+  <ex:Carro Nombre="MINI John Cooper Works Hardtop" Rendimiento="28" Fabricante="Mini" />
+  <ex:Carro Nombre="MINI John Cooper Works Hardtop" Rendimiento="26" Fabricante="Mini" />
+  <ex:Carro Nombre="GT-R" Rendimiento="19" Fabricante="NISSAN" />
+  <ex:Carro Nombre="Roush Stage 3 Mustang" Rendimiento="16" Fabricante="Roush" />
+  <ex:Carro Nombre="Roush Stage 3 Mustang" Rendimiento="16" Fabricante="Roush" />
+  <ex:Carro Nombre="iA" Rendimiento="37" Fabricante="SCION" />
+  <ex:Carro Nombre="iA" Rendimiento="35" Fabricante="SCION" />
+  <ex:Carro Nombre="Beetle Convertible" Rendimiento="28" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Beetle Convertible" Rendimiento="26" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Beetle Convertible" Rendimiento="26" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Eos" Rendimiento="25" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="ILX" Rendimiento="29" Fabricante="Acura" />
+  <ex:Carro Nombre="TLX 2WD" Rendimiento="28" Fabricante="Acura" />
+  <ex:Carro Nombre="TLX 2WD" Rendimiento="25" Fabricante="Acura" />
+  <ex:Carro Nombre="TLX 4WD" Rendimiento="25" Fabricante="Acura" />
+  <ex:Carro Nombre="A4" Rendimiento="27" Fabricante="Audi" />
+  <ex:Carro Nombre="A4 quattro" Rendimiento="25" Fabricante="Audi" />
+  <ex:Carro Nombre="A4 quattro" Rendimiento="26" Fabricante="Audi" />
+  <ex:Carro Nombre="Q3" Rendimiento="23" Fabricante="Audi" />
+  <ex:Carro Nombre="Q3 quattro" Rendimiento="23" Fabricante="Audi" />
+  <ex:Carro Nombre="S4" Rendimiento="21" Fabricante="Audi" />
+  <ex:Carro Nombre="S4" Rendimiento="20" Fabricante="Audi" />
+  <ex:Carro Nombre="Continental GT" Rendimiento="19" Fabricante="Bentley" />
+  <ex:Carro Nombre="Continental GT" Rendimiento="15" Fabricante="Bentley" />
+  <ex:Carro Nombre="320i" Rendimiento="28" Fabricante="BMW" />
+  <ex:Carro Nombre="320i" Rendimiento="28" Fabricante="BMW" />
+  <ex:Carro Nombre="320i xDrive" Rendimiento="27" Fabricante="BMW" />
+  <ex:Carro Nombre="328d" Rendimiento="36" Fabricante="BMW" />
+  <ex:Carro Nombre="328d xDrive" Rendimiento="34" Fabricante="BMW" />
+  <ex:Carro Nombre="328i" Rendimiento="27" Fabricante="BMW" />
+  <ex:Carro Nombre="328i" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="328i xDrive" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="340i" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="340i" Rendimiento="23" Fabricante="BMW" />
+  <ex:Carro Nombre="340i xDrive" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="340i xDrive" Rendimiento="23" Fabricante="BMW" />
+  <ex:Carro Nombre="428i Coupe" Rendimiento="27" Fabricante="BMW" />
+  <ex:Carro Nombre="428i Coupe" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="428i Gran Coupe" Rendimiento="27" Fabricante="BMW" />
+  <ex:Carro Nombre="428i xDrive Coupe" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="428i xDrive Gran Coupe" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="435i Coupe" Rendimiento="24" Fabricante="BMW" />
+  <ex:Carro Nombre="435i Coupe" Rendimiento="23" Fabricante="BMW" />
+  <ex:Carro Nombre="435i Gran Coupe" Rendimiento="24" Fabricante="BMW" />
+  <ex:Carro Nombre="435i xDrive Coupe" Rendimiento="23" Fabricante="BMW" />
+  <ex:Carro Nombre="435i xDrive Coupe" Rendimiento="22" Fabricante="BMW" />
+  <ex:Carro Nombre="435i xDrive Gran Coupe" Rendimiento="23" Fabricante="BMW" />
+  <ex:Carro Nombre="640i Gran Coupe" Rendimiento="24" Fabricante="BMW" />
+  <ex:Carro Nombre="640i xDrive Gran Coupe" Rendimiento="23" Fabricante="BMW" />
+  <ex:Carro Nombre="650i Gran Coupe" Rendimiento="20" Fabricante="BMW" />
+  <ex:Carro Nombre="650i xDrive Gran Coupe" Rendimiento="18" Fabricante="BMW" />
+  <ex:Carro Nombre="Alpina B6 Gran Coupe xDrive" Rendimiento="18" Fabricante="BMW" />
+  <ex:Carro Nombre="M3" Rendimiento="19" Fabricante="BMW" />
+  <ex:Carro Nombre="M3" Rendimiento="20" Fabricante="BMW" />
+  <ex:Carro Nombre="M4 Coupe" Rendimiento="19" Fabricante="BMW" />
+  <ex:Carro Nombre="M4 Coupe" Rendimiento="20" Fabricante="BMW" />
+  <ex:Carro Nombre="M6 Gran Coupe" Rendimiento="16" Fabricante="BMW" />
+  <ex:Carro Nombre="M6 Gran Coupe" Rendimiento="17" Fabricante="BMW" />
+  <ex:Carro Nombre="VERANO" Rendimiento="24" Fabricante="Buick" />
+  <ex:Carro Nombre="VERANO" Rendimiento="24" Fabricante="Buick" />
+  <ex:Carro Nombre="VERANO" Rendimiento="25" Fabricante="Buick" />
+  <ex:Carro Nombre="ATS" Rendimiento="26" Fabricante="Cadillac" />
+  <ex:Carro Nombre="ATS" Rendimiento="23" Fabricante="Cadillac" />
+  <ex:Carro Nombre="ATS" Rendimiento="26" Fabricante="Cadillac" />
+  <ex:Carro Nombre="ATS" Rendimiento="24" Fabricante="Cadillac" />
+  <ex:Carro Nombre="ATS AWD" Rendimiento="25" Fabricante="Cadillac" />
+  <ex:Carro Nombre="ATS AWD" Rendimiento="22" Fabricante="Cadillac" />
+  <ex:Carro Nombre="ATS-V" Rendimiento="19" Fabricante="Cadillac" />
+  <ex:Carro Nombre="ATS-V" Rendimiento="19" Fabricante="Cadillac" />
+  <ex:Carro Nombre="CAMARO" Rendimiento="25" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CAMARO" Rendimiento="24" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CAMARO" Rendimiento="23" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CAMARO" Rendimiento="21" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CAMARO" Rendimiento="20" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CAMARO" Rendimiento="19" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CRUZE" Rendimiento="35" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CRUZE" Rendimiento="33" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CRUZE PREMIER" Rendimiento="34" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="SONIC" Rendimiento="31" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="SONIC" Rendimiento="33" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="SONIC" Rendimiento="28" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="SONIC" Rendimiento="30" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="SONIC RS" Rendimiento="28" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="SONIC RS" Rendimiento="30" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="Fiesta ST FWD" Rendimiento="29" Fabricante="Ford" />
+  <ex:Carro Nombre="FOCUS FWD" Rendimiento="32" Fabricante="Ford" />
+  <ex:Carro Nombre="FOCUS FWD" Rendimiento="35" Fabricante="Ford" />
+  <ex:Carro Nombre="FOCUS FWD" Rendimiento="31" Fabricante="Ford" />
+  <ex:Carro Nombre="FOCUS FWD" Rendimiento="30" Fabricante="Ford" />
+  <ex:Carro Nombre="FOCUS FWD" Rendimiento="30" Fabricante="Ford" />
+  <ex:Carro Nombre="Focus FWD FFV" Rendimiento="31" Fabricante="Ford" />
+  <ex:Carro Nombre="Focus FWD FFV" Rendimiento="30" Fabricante="Ford" />
+  <ex:Carro Nombre="Focus FWD FFV" Rendimiento="30" Fabricante="Ford" />
+  <ex:Carro Nombre="CIVIC 2Dr" Rendimiento="35" Fabricante="Honda" />
+  <ex:Carro Nombre="CIVIC 2Dr" Rendimiento="34" Fabricante="Honda" />
+  <ex:Carro Nombre="CIVIC 2Dr" Rendimiento="31" Fabricante="Honda" />
+  <ex:Carro Nombre="Accent" Rendimiento="30" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Accent" Rendimiento="31" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Veloster" Rendimiento="29" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Veloster" Rendimiento="31" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Veloster" Rendimiento="28" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Veloster" Rendimiento="30" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Q50 HYBRID" Rendimiento="30" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Q50 HYBRID AWD" Rendimiento="28" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Forte Koup" Rendimiento="25" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Forte Koup" Rendimiento="25" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Forte Koup" Rendimiento="28" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Forte Koup" Rendimiento="27" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Rio" Rendimiento="31" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Rio" Rendimiento="31" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Rio ECO" Rendimiento="31" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="CT 200h" Rendimiento="42" Fabricante="LEXUS" />
+  <ex:Carro Nombre="GS F" Rendimiento="19" Fabricante="LEXUS" />
+  <ex:Carro Nombre="IS 200t" Rendimiento="26" Fabricante="LEXUS" />
+  <ex:Carro Nombre="IS 300 AWD" Rendimiento="21" Fabricante="LEXUS" />
+  <ex:Carro Nombre="IS 350" Rendimiento="22" Fabricante="LEXUS" />
+  <ex:Carro Nombre="IS 350 AWD" Rendimiento="21" Fabricante="LEXUS" />
+  <ex:Carro Nombre="CX-3 2WD" Rendimiento="31" Fabricante="MAZDA" />
+  <ex:Carro Nombre="CX-3 4WD" Rendimiento="29" Fabricante="MAZDA" />
+  <ex:Carro Nombre="MAZDA 2" Rendimiento="37" Fabricante="MAZDA" />
+  <ex:Carro Nombre="MAZDA 2" Rendimiento="35" Fabricante="MAZDA" />
+  <ex:Carro Nombre="MAZDA3 4-Door" Rendimiento="34" Fabricante="MAZDA" />
+  <ex:Carro Nombre="MAZDA3 4-Door" Rendimiento="33" Fabricante="MAZDA" />
+  <ex:Carro Nombre="MAZDA3 4-Door" Rendimiento="33" Fabricante="MAZDA" />
+  <ex:Carro Nombre="MAZDA3 4-Door" Rendimiento="32" Fabricante="MAZDA" />
+  <ex:Carro Nombre="MAZDA3 4-Door" Rendimiento="29" Fabricante="MAZDA" />
+  <ex:Carro Nombre="AMG C 63" Rendimiento="20" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="AMG C 63 S" Rendimiento="20" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="AMG CLA 45 4MATIC" Rendimiento="26" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="AMG CLS 63 S 4MATIC" Rendimiento="18" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="AMG S 63 4MATIC (coupe)" Rendimiento="18" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="AMG S 65 (coupe)" Rendimiento="15" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="C 300" Rendimiento="28" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="C 300 4MATIC" Rendimiento="27" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="C 450 AMG" Rendimiento="24" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="CLA 250" Rendimiento="30" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="CLA 250 4MATIC" Rendimiento="27" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="CLA 250 4MATIC" Rendimiento="27" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="CLS 400" Rendimiento="24" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="CLS 400 4MATIC" Rendimiento="22" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="CLS 550" Rendimiento="21" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="CLS 550 4MATIC" Rendimiento="20" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="S 550 4MATIC (coupe)" Rendimiento="19" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="Mini Cooper Countryman" Rendimiento="27" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper Countryman" Rendimiento="29" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper Paceman" Rendimiento="27" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper Paceman" Rendimiento="29" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper S Countryman" Rendimiento="28" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper S Countryman" Rendimiento="29" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper S Countryman All4" Rendimiento="26" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper S Countryman All4" Rendimiento="27" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper S Paceman" Rendimiento="28" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper S Paceman" Rendimiento="29" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper S Paceman ALL4" Rendimiento="26" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper S Paceman ALL4" Rendimiento="27" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini JCW Countryman ALL4" Rendimiento="26" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini JCW Countryman ALL4" Rendimiento="27" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini JCW Paceman ALL4" Rendimiento="26" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini JCW Paceman ALL4" Rendimiento="27" Fabricante="Mini" />
+  <ex:Carro Nombre="LANCER" Rendimiento="30" Fabricante="Mitsubishi Motors Corporation" />
+  <ex:Carro Nombre="LANCER" Rendimiento="28" Fabricante="Mitsubishi Motors Corporation" />
+  <ex:Carro Nombre="LANCER" Rendimiento="27" Fabricante="Mitsubishi Motors Corporation" />
+  <ex:Carro Nombre="LANCER" Rendimiento="25" Fabricante="Mitsubishi Motors Corporation" />
+  <ex:Carro Nombre="LANCER 4WD" Rendimiento="26" Fabricante="Mitsubishi Motors Corporation" />
+  <ex:Carro Nombre="VERSA" Rendimiento="30" Fabricante="NISSAN" />
+  <ex:Carro Nombre="VERSA" Rendimiento="35" Fabricante="NISSAN" />
+  <ex:Carro Nombre="VERSA" Rendimiento="30" Fabricante="NISSAN" />
+  <ex:Carro Nombre="Dawn" Rendimiento="14" Fabricante="Rolls-Royce Motor Cars Limited" />
+  <ex:Carro Nombre="Phantom Coupe" Rendimiento="14" Fabricante="Rolls-Royce Motor Cars Limited" />
+  <ex:Carro Nombre="Phantom Drophead Coupe" Rendimiento="14" Fabricante="Rolls-Royce Motor Cars Limited" />
+  <ex:Carro Nombre="tC" Rendimiento="26" Fabricante="SCION" />
+  <ex:Carro Nombre="tC" Rendimiento="26" Fabricante="SCION" />
+  <ex:Carro Nombre="IMPREZA" Rendimiento="31" Fabricante="Subaru" />
+  <ex:Carro Nombre="IMPREZA" Rendimiento="28" Fabricante="Subaru" />
+  <ex:Carro Nombre="WRX" Rendimiento="21" Fabricante="Subaru" />
+  <ex:Carro Nombre="WRX" Rendimiento="23" Fabricante="Subaru" />
+  <ex:Carro Nombre="WRX" Rendimiento="19" Fabricante="Subaru" />
+  <ex:Carro Nombre="PRIUS c" Rendimiento="50" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="YARIS" Rendimiento="32" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="YARIS" Rendimiento="33" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="Beetle" Rendimiento="28" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Beetle" Rendimiento="28" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Beetle" Rendimiento="27" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Beetle" Rendimiento="26" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Beetle Dune" Rendimiento="27" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="CC" Rendimiento="25" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="CC" Rendimiento="25" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="CC 4Motion" Rendimiento="20" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Golf" Rendimiento="29" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Golf" Rendimiento="30" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Golf R" Rendimiento="25" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Golf R" Rendimiento="25" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="GTI" Rendimiento="28" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="GTI" Rendimiento="28" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Jetta" Rendimiento="32" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Jetta" Rendimiento="33" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Jetta" Rendimiento="29" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Jetta" Rendimiento="29" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Jetta" Rendimiento="27" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Jetta" Rendimiento="27" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Jetta Hybrid" Rendimiento="44" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="S60 AWD" Rendimiento="25" Fabricante="Volvo" />
+  <ex:Carro Nombre="S60 AWD" Rendimiento="23" Fabricante="Volvo" />
+  <ex:Carro Nombre="S60 AWD" Rendimiento="21" Fabricante="Volvo" />
+  <ex:Carro Nombre="S60 CC AWD" Rendimiento="23" Fabricante="Volvo" />
+  <ex:Carro Nombre="S60 FWD" Rendimiento="30" Fabricante="Volvo" />
+  <ex:Carro Nombre="S60 FWD" Rendimiento="27" Fabricante="Volvo" />
+  <ex:Carro Nombre="S60 Inscription AWD" Rendimiento="23" Fabricante="Volvo" />
+  <ex:Carro Nombre="S60 Inscription FWD" Rendimiento="29" Fabricante="Volvo" />
+  <ex:Carro Nombre="S60 Polestar AWD" Rendimiento="21" Fabricante="Volvo" />
+  <ex:Carro Nombre="RLX" Rendimiento="30" Fabricante="Acura" />
+  <ex:Carro Nombre="RLX" Rendimiento="24" Fabricante="Acura" />
+  <ex:Carro Nombre="A6" Rendimiento="28" Fabricante="Audi" />
+  <ex:Carro Nombre="A6 quattro" Rendimiento="26" Fabricante="Audi" />
+  <ex:Carro Nombre="A6 quattro" Rendimiento="30" Fabricante="Audi" />
+  <ex:Carro Nombre="A6 quattro" Rendimiento="24" Fabricante="Audi" />
+  <ex:Carro Nombre="A7 quattro" Rendimiento="30" Fabricante="Audi" />
+  <ex:Carro Nombre="A7 quattro" Rendimiento="24" Fabricante="Audi" />
+  <ex:Carro Nombre="RS7" Rendimiento="18" Fabricante="Audi" />
+  <ex:Carro Nombre="S6" Rendimiento="21" Fabricante="Audi" />
+  <ex:Carro Nombre="S7" Rendimiento="21" Fabricante="Audi" />
+  <ex:Carro Nombre="S8" Rendimiento="19" Fabricante="Audi" />
+  <ex:Carro Nombre="Flying Spur" Rendimiento="17" Fabricante="Bentley" />
+  <ex:Carro Nombre="Flying Spur" Rendimiento="15" Fabricante="Bentley" />
+  <ex:Carro Nombre="Mulsanne" Rendimiento="13" Fabricante="Bentley" />
+  <ex:Carro Nombre="528i" Rendimiento="27" Fabricante="BMW" />
+  <ex:Carro Nombre="528i xDrive" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="535d" Rendimiento="30" Fabricante="BMW" />
+  <ex:Carro Nombre="535d xDrive" Rendimiento="30" Fabricante="BMW" />
+  <ex:Carro Nombre="535i" Rendimiento="24" Fabricante="BMW" />
+  <ex:Carro Nombre="535i xDrive" Rendimiento="23" Fabricante="BMW" />
+  <ex:Carro Nombre="550i" Rendimiento="20" Fabricante="BMW" />
+  <ex:Carro Nombre="550i xDrive" Rendimiento="19" Fabricante="BMW" />
+  <ex:Carro Nombre="ActiveHybrid 5" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="M5" Rendimiento="16" Fabricante="BMW" />
+  <ex:Carro Nombre="M5" Rendimiento="17" Fabricante="BMW" />
+  <ex:Carro Nombre="LACROSSE" Rendimiento="29" Fabricante="Buick" />
+  <ex:Carro Nombre="LACROSSE" Rendimiento="22" Fabricante="Buick" />
+  <ex:Carro Nombre="LACROSSE" Rendimiento="21" Fabricante="Buick" />
+  <ex:Carro Nombre="LACROSSE AWD" Rendimiento="20" Fabricante="Buick" />
+  <ex:Carro Nombre="REGAL" Rendimiento="24" Fabricante="Buick" />
+  <ex:Carro Nombre="REGAL" Rendimiento="24" Fabricante="Buick" />
+  <ex:Carro Nombre="REGAL" Rendimiento="29" Fabricante="Buick" />
+  <ex:Carro Nombre="REGAL" Rendimiento="23" Fabricante="Buick" />
+  <ex:Carro Nombre="REGAL AWD" Rendimiento="22" Fabricante="Buick" />
+  <ex:Carro Nombre="CTS SEDAN" Rendimiento="25" Fabricante="Cadillac" />
+  <ex:Carro Nombre="CTS SEDAN" Rendimiento="24" Fabricante="Cadillac" />
+  <ex:Carro Nombre="CTS SEDAN" Rendimiento="19" Fabricante="Cadillac" />
+  <ex:Carro Nombre="CTS SEDAN AWD" Rendimiento="24" Fabricante="Cadillac" />
+  <ex:Carro Nombre="CTS SEDAN AWD" Rendimiento="22" Fabricante="Cadillac" />
+  <ex:Carro Nombre="CTS-V" Rendimiento="17" Fabricante="Cadillac" />
+  <ex:Carro Nombre="CRUZE LIMITED" Rendimiento="30" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CRUZE LIMITED" Rendimiento="30" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CRUZE LIMITED" Rendimiento="27" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CRUZE LIMITED" Rendimiento="29" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CRUZE LIMITED ECO" Rendimiento="31" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CRUZE LIMITED ECO" Rendimiento="33" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="Impala Bi-Fuel (CNG)" Rendimiento="20" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="MALIBU" Rendimiento="31" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="MALIBU" Rendimiento="46" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="MALIBU" Rendimiento="26" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="MALIBU LIMITED" Rendimiento="27" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="SONIC 5 RS" Rendimiento="28" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="SONIC 5 RS" Rendimiento="30" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="200" Rendimiento="28" Fabricante="Chrysler" />
+  <ex:Carro Nombre="200" Rendimiento="28" Fabricante="Chrysler" />
+  <ex:Carro Nombre="200" Rendimiento="23" Fabricante="Chrysler" />
+  <ex:Carro Nombre="200 AWD" Rendimiento="22" Fabricante="Chrysler" />
+  <ex:Carro Nombre="Challenger" Rendimiento="23" Fabricante="Dodge" />
+  <ex:Carro Nombre="Challenger" Rendimiento="19" Fabricante="Dodge" />
+  <ex:Carro Nombre="Challenger" Rendimiento="18" Fabricante="Dodge" />
+  <ex:Carro Nombre="Challenger" Rendimiento="18" Fabricante="Dodge" />
+  <ex:Carro Nombre="Challenger" Rendimiento="17" Fabricante="Dodge" />
+  <ex:Carro Nombre="Challenger SRT8" Rendimiento="16" Fabricante="Dodge" />
+  <ex:Carro Nombre="Challenger SRT8" Rendimiento="16" Fabricante="Dodge" />
+  <ex:Carro Nombre="Challenger SRT8" Rendimiento="18" Fabricante="Dodge" />
+  <ex:Carro Nombre="Challenger SRT8" Rendimiento="17" Fabricante="Dodge" />
+  <ex:Carro Nombre="Dart" Rendimiento="31" Fabricante="Dodge" />
+  <ex:Carro Nombre="Dart" Rendimiento="27" Fabricante="Dodge" />
+  <ex:Carro Nombre="Dart" Rendimiento="29" Fabricante="Dodge" />
+  <ex:Carro Nombre="Dart" Rendimiento="27" Fabricante="Dodge" />
+  <ex:Carro Nombre="Dart" Rendimiento="27" Fabricante="Dodge" />
+  <ex:Carro Nombre="Dart Aero" Rendimiento="32" Fabricante="Dodge" />
+  <ex:Carro Nombre="Dart Aero" Rendimiento="32" Fabricante="Dodge" />
+  <ex:Carro Nombre="Dart GT" Rendimiento="26" Fabricante="Dodge" />
+  <ex:Carro Nombre="Dart GT" Rendimiento="27" Fabricante="Dodge" />
+  <ex:Carro Nombre="FF" Rendimiento="13" Fabricante="Ferrari" />
+  <ex:Carro Nombre="FF" Rendimiento="13" Fabricante="Ferrari" />
+  <ex:Carro Nombre="FOCUS RS AWD" Rendimiento="22" Fabricante="Ford" />
+  <ex:Carro Nombre="Focus ST FWD" Rendimiento="25" Fabricante="Ford" />
+  <ex:Carro Nombre="FUSION AWD" Rendimiento="25" Fabricante="Ford" />
+  <ex:Carro Nombre="FUSION FWD" Rendimiento="28" Fabricante="Ford" />
+  <ex:Carro Nombre="FUSION FWD" Rendimiento="29" Fabricante="Ford" />
+  <ex:Carro Nombre="FUSION FWD" Rendimiento="26" Fabricante="Ford" />
+  <ex:Carro Nombre="FUSION FWD" Rendimiento="26" Fabricante="Ford" />
+  <ex:Carro Nombre="FUSION HYBRID FWD" Rendimiento="42" Fabricante="Ford" />
+  <ex:Carro Nombre="ACCORD" Rendimiento="31" Fabricante="Honda" />
+  <ex:Carro Nombre="ACCORD" Rendimiento="30" Fabricante="Honda" />
+  <ex:Carro Nombre="ACCORD" Rendimiento="27" Fabricante="Honda" />
+  <ex:Carro Nombre="ACCORD" Rendimiento="26" Fabricante="Honda" />
+  <ex:Carro Nombre="ACCORD" Rendimiento="25" Fabricante="Honda" />
+  <ex:Carro Nombre="ACCORD" Rendimiento="22" Fabricante="Honda" />
+  <ex:Carro Nombre="CIVIC 4Dr" Rendimiento="35" Fabricante="Honda" />
+  <ex:Carro Nombre="CIVIC 4Dr" Rendimiento="35" Fabricante="Honda" />
+  <ex:Carro Nombre="CIVIC 4Dr" Rendimiento="31" Fabricante="Honda" />
+  <ex:Carro Nombre="Elantra" Rendimiento="32" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Elantra" Rendimiento="31" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Elantra" Rendimiento="28" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Elantra" Rendimiento="28" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Elantra GT" Rendimiento="27" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Elantra GT" Rendimiento="27" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Elantra Limited" Rendimiento="31" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Sonata HYBRID" Rendimiento="41" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Sonata HYBRID SE" Rendimiento="42" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Q50" Rendimiento="26" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Q50" Rendimiento="23" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Q50 AWD" Rendimiento="24" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Q50 AWD" Rendimiento="22" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Q50S" Rendimiento="23" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Q50S AWD" Rendimiento="21" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Q50S AWD Red Sport" Rendimiento="22" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Q50S Red Sport" Rendimiento="22" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Q70" Rendimiento="21" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Q70" Rendimiento="19" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Q70 AWD" Rendimiento="20" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Q70 AWD" Rendimiento="18" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Q70 HYBRID" Rendimiento="31" Fabricante="INFINITI" />
+  <ex:Carro Nombre="XF" Rendimiento="24" Fabricante="Jaguar" />
+  <ex:Carro Nombre="XF AWD" Rendimiento="23" Fabricante="Jaguar" />
+  <ex:Carro Nombre="Forte" Rendimiento="31" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Forte" Rendimiento="30" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Forte" Rendimiento="28" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Optima HYBRID" Rendimiento="38" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Optima HYBRID EX" Rendimiento="37" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="ES 300h" Rendimiento="40" Fabricante="LEXUS" />
+  <ex:Carro Nombre="ES 350" Rendimiento="24" Fabricante="LEXUS" />
+  <ex:Carro Nombre="GS 200t" Rendimiento="26" Fabricante="LEXUS" />
+  <ex:Carro Nombre="GS 200t F SPORT" Rendimiento="24" Fabricante="LEXUS" />
+  <ex:Carro Nombre="GS 350" Rendimiento="23" Fabricante="LEXUS" />
+  <ex:Carro Nombre="GS 350 AWD" Rendimiento="22" Fabricante="LEXUS" />
+  <ex:Carro Nombre="GS 350 F SPORT" Rendimiento="22" Fabricante="LEXUS" />
+  <ex:Carro Nombre="GS 450h" Rendimiento="31" Fabricante="LEXUS" />
+  <ex:Carro Nombre="LS 460" Rendimiento="19" Fabricante="LEXUS" />
+  <ex:Carro Nombre="LS 460 AWD" Rendimiento="18" Fabricante="LEXUS" />
+  <ex:Carro Nombre="LS 460 L" Rendimiento="19" Fabricante="LEXUS" />
+  <ex:Carro Nombre="LS 460 L AWD" Rendimiento="18" Fabricante="LEXUS" />
+  <ex:Carro Nombre="LS 600h L" Rendimiento="20" Fabricante="LEXUS" />
+  <ex:Carro Nombre="MKZ AWD" Rendimiento="25" Fabricante="Lincoln" />
+  <ex:Carro Nombre="MKZ AWD" Rendimiento="20" Fabricante="Lincoln" />
+  <ex:Carro Nombre="MKZ FWD" Rendimiento="26" Fabricante="Lincoln" />
+  <ex:Carro Nombre="MKZ FWD" Rendimiento="22" Fabricante="Lincoln" />
+  <ex:Carro Nombre="MKZ HYBRID FWD" Rendimiento="40" Fabricante="Lincoln" />
+  <ex:Carro Nombre="Ghibli  S RWD" Rendimiento="19" Fabricante="MASERATI" />
+  <ex:Carro Nombre="Ghibli V6 Rear Wheel Drive (RWD)" Rendimiento="19" Fabricante="MASERATI" />
+  <ex:Carro Nombre="Ghibli V6 SQ4 AWD" Rendimiento="19" Fabricante="MASERATI" />
+  <ex:Carro Nombre="MAZDA 6" Rendimiento="32" Fabricante="MAZDA" />
+  <ex:Carro Nombre="MAZDA 6" Rendimiento="31" Fabricante="MAZDA" />
+  <ex:Carro Nombre="MAZDA 6" Rendimiento="29" Fabricante="MAZDA" />
+  <ex:Carro Nombre="MAZDA3 5-Door" Rendimiento="33" Fabricante="MAZDA" />
+  <ex:Carro Nombre="MAZDA3 5-Door" Rendimiento="33" Fabricante="MAZDA" />
+  <ex:Carro Nombre="MAZDA3 5-Door" Rendimiento="32" Fabricante="MAZDA" />
+  <ex:Carro Nombre="MAZDA3 5-Door" Rendimiento="31" Fabricante="MAZDA" />
+  <ex:Carro Nombre="MAZDA3 5-Door" Rendimiento="29" Fabricante="MAZDA" />
+  <ex:Carro Nombre="AMG E 63 4MATIC" Rendimiento="19" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="AMG E 63 S 4MATIC" Rendimiento="18" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="E 250 BLUETEC" Rendimiento="33" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="E 250 BLUETEC 4MATIC" Rendimiento="31" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="E 350" Rendimiento="23" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="E 350" Rendimiento="23" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="E 350 4MATIC" Rendimiento="23" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="E 350 4MATIC" Rendimiento="23" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="E 400" Rendimiento="23" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="E 400 4MATIC" Rendimiento="23" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="E 550 4MATIC" Rendimiento="21" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="Mini Cooper Clubman" Rendimiento="28" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper Clubman" Rendimiento="28" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper S Clubman" Rendimiento="27" Fabricante="Mini" />
+  <ex:Carro Nombre="Mini Cooper S Clubman" Rendimiento="26" Fabricante="Mini" />
+  <ex:Carro Nombre="ALTIMA" Rendimiento="31" Fabricante="NISSAN" />
+  <ex:Carro Nombre="ALTIMA 3.5" Rendimiento="26" Fabricante="NISSAN" />
+  <ex:Carro Nombre="ALTIMA SR" Rendimiento="30" Fabricante="NISSAN" />
+  <ex:Carro Nombre="MAXIMA" Rendimiento="25" Fabricante="NISSAN" />
+  <ex:Carro Nombre="SENTRA" Rendimiento="32" Fabricante="NISSAN" />
+  <ex:Carro Nombre="SENTRA" Rendimiento="30" Fabricante="NISSAN" />
+  <ex:Carro Nombre="SENTRA FE+" Rendimiento="34" Fabricante="NISSAN" />
+  <ex:Carro Nombre="Wraith" Rendimiento="15" Fabricante="Rolls-Royce Motor Cars Limited" />
+  <ex:Carro Nombre="iM" Rendimiento="32" Fabricante="SCION" />
+  <ex:Carro Nombre="iM" Rendimiento="31" Fabricante="SCION" />
+  <ex:Carro Nombre="LEGACY" Rendimiento="30" Fabricante="Subaru" />
+  <ex:Carro Nombre="LEGACY" Rendimiento="23" Fabricante="Subaru" />
+  <ex:Carro Nombre="AVALON" Rendimiento="24" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="AVALON HYBRID" Rendimiento="40" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="CAMRY" Rendimiento="28" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="CAMRY" Rendimiento="25" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="CAMRY HYBRID LE" Rendimiento="41" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="CAMRY HYBRID XLE/SE" Rendimiento="40" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="COROLLA" Rendimiento="31" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="COROLLA" Rendimiento="32" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="COROLLA" Rendimiento="32" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="COROLLA" Rendimiento="31" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="COROLLA LE ECO" Rendimiento="35" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="COROLLA LE ECO" Rendimiento="34" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="PRIUS" Rendimiento="52" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="PRIUS Eco" Rendimiento="56" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="Passat" Rendimiento="29" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Passat" Rendimiento="23" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="S80 FWD" Rendimiento="29" Fabricante="Volvo" />
+  <ex:Carro Nombre="A8L" Rendimiento="28" Fabricante="Audi" />
+  <ex:Carro Nombre="A8L" Rendimiento="22" Fabricante="Audi" />
+  <ex:Carro Nombre="A8L" Rendimiento="22" Fabricante="Audi" />
+  <ex:Carro Nombre="A8L" Rendimiento="17" Fabricante="Audi" />
+  <ex:Carro Nombre="328i xDrive Gran Turismo" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="335i xDrive Gran Turismo" Rendimiento="23" Fabricante="BMW" />
+  <ex:Carro Nombre="535i Gran Turismo" Rendimiento="22" Fabricante="BMW" />
+  <ex:Carro Nombre="535i xDrive Gran Turismo" Rendimiento="21" Fabricante="BMW" />
+  <ex:Carro Nombre="740i" Rendimiento="24" Fabricante="BMW" />
+  <ex:Carro Nombre="750i" Rendimiento="20" Fabricante="BMW" />
+  <ex:Carro Nombre="750i xDrive" Rendimiento="19" Fabricante="BMW" />
+  <ex:Carro Nombre="X1 xDrive28i" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="CT6" Rendimiento="25" Fabricante="Cadillac" />
+  <ex:Carro Nombre="CT6 AWD" Rendimiento="21" Fabricante="Cadillac" />
+  <ex:Carro Nombre="CT6 AWD" Rendimiento="22" Fabricante="Cadillac" />
+  <ex:Carro Nombre="XTS" Rendimiento="22" Fabricante="Cadillac" />
+  <ex:Carro Nombre="XTS AWD" Rendimiento="20" Fabricante="Cadillac" />
+  <ex:Carro Nombre="XTS AWD" Rendimiento="18" Fabricante="Cadillac" />
+  <ex:Carro Nombre="IMPALA" Rendimiento="25" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="IMPALA" Rendimiento="22" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="IMPALA" Rendimiento="22" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="IMPALA LIMITED" Rendimiento="22" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="SS" Rendimiento="16" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="SS" Rendimiento="17" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="300" Rendimiento="23" Fabricante="Chrysler" />
+  <ex:Carro Nombre="300" Rendimiento="23" Fabricante="Chrysler" />
+  <ex:Carro Nombre="300" Rendimiento="19" Fabricante="Chrysler" />
+  <ex:Carro Nombre="300 AWD" Rendimiento="21" Fabricante="Chrysler" />
+  <ex:Carro Nombre="300 AWD" Rendimiento="21" Fabricante="Chrysler" />
+  <ex:Carro Nombre="Charger" Rendimiento="23" Fabricante="Dodge" />
+  <ex:Carro Nombre="Charger" Rendimiento="23" Fabricante="Dodge" />
+  <ex:Carro Nombre="Charger" Rendimiento="19" Fabricante="Dodge" />
+  <ex:Carro Nombre="Charger" Rendimiento="18" Fabricante="Dodge" />
+  <ex:Carro Nombre="Charger AWD" Rendimiento="21" Fabricante="Dodge" />
+  <ex:Carro Nombre="Charger AWD" Rendimiento="21" Fabricante="Dodge" />
+  <ex:Carro Nombre="Charger SRT8" Rendimiento="16" Fabricante="Dodge" />
+  <ex:Carro Nombre="Charger SRT8" Rendimiento="18" Fabricante="Dodge" />
+  <ex:Carro Nombre="C-MAX Hybrid FWD" Rendimiento="40" Fabricante="Ford" />
+  <ex:Carro Nombre="Special Service Police FWD" Rendimiento="22" Fabricante="Ford" />
+  <ex:Carro Nombre="TAURUS AWD" Rendimiento="19" Fabricante="Ford" />
+  <ex:Carro Nombre="TAURUS AWD" Rendimiento="19" Fabricante="Ford" />
+  <ex:Carro Nombre="TAURUS AWD FFV" Rendimiento="19" Fabricante="Ford" />
+  <ex:Carro Nombre="TAURUS FWD" Rendimiento="23" Fabricante="Ford" />
+  <ex:Carro Nombre="TAURUS FWD" Rendimiento="21" Fabricante="Ford" />
+  <ex:Carro Nombre="TAURUS FWD FFV" Rendimiento="21" Fabricante="Ford" />
+  <ex:Carro Nombre="Azera" Rendimiento="23" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Azera Limited" Rendimiento="22" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Equus" Rendimiento="18" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Genesis AWD" Rendimiento="19" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Genesis RWD" Rendimiento="22" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Genesis RWD" Rendimiento="18" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Sonata" Rendimiento="32" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Sonata" Rendimiento="26" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Sonata" Rendimiento="30" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Sonata Limited" Rendimiento="25" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Sonata SPORT/LIMITED" Rendimiento="29" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="XJ" Rendimiento="21" Fabricante="Jaguar" />
+  <ex:Carro Nombre="XJ" Rendimiento="18" Fabricante="Jaguar" />
+  <ex:Carro Nombre="XJ AWD" Rendimiento="20" Fabricante="Jaguar" />
+  <ex:Carro Nombre="XJL" Rendimiento="21" Fabricante="Jaguar" />
+  <ex:Carro Nombre="XJL" Rendimiento="18" Fabricante="Jaguar" />
+  <ex:Carro Nombre="XJL AWD" Rendimiento="20" Fabricante="Jaguar" />
+  <ex:Carro Nombre="Cadenza" Rendimiento="22" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Forte 5" Rendimiento="24" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Forte 5" Rendimiento="24" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Forte 5" Rendimiento="28" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="K900" Rendimiento="20" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="K900" Rendimiento="18" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Optima" Rendimiento="32" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Optima" Rendimiento="25" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Optima" Rendimiento="28" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Optima FE" Rendimiento="26" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Optima FE" Rendimiento="30" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="MKS AWD" Rendimiento="19" Fabricante="Lincoln" />
+  <ex:Carro Nombre="MKS AWD" Rendimiento="19" Fabricante="Lincoln" />
+  <ex:Carro Nombre="MKS FWD" Rendimiento="20" Fabricante="Lincoln" />
+  <ex:Carro Nombre="QUATTROPORTE GTS" Rendimiento="17" Fabricante="MASERATI" />
+  <ex:Carro Nombre="QUATTROPORTE S" Rendimiento="18" Fabricante="MASERATI" />
+  <ex:Carro Nombre="QUATTROPORTE SQ4 V6" Rendimiento="18" Fabricante="MASERATI" />
+  <ex:Carro Nombre="AMG S 63 4MATIC" Rendimiento="18" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="AMG S 65" Rendimiento="15" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="Maybach S 600" Rendimiento="15" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="S 550" Rendimiento="20" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="S 550 4MATIC" Rendimiento="19" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="S 600" Rendimiento="16" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="Panamera" Rendimiento="22" Fabricante="Porsche" />
+  <ex:Carro Nombre="Panamera 4" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="Panamera 4S" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="Panamera 4S Executive" Rendimiento="20" Fabricante="Porsche" />
+  <ex:Carro Nombre="Panamera GTS" Rendimiento="19" Fabricante="Porsche" />
+  <ex:Carro Nombre="Panamera S" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="Panamera Turbo" Rendimiento="18" Fabricante="Porsche" />
+  <ex:Carro Nombre="Panamera Turbo Executive" Rendimiento="18" Fabricante="Porsche" />
+  <ex:Carro Nombre="Panamera Turbo S" Rendimiento="18" Fabricante="Porsche" />
+  <ex:Carro Nombre="Panamera Turbo S Executive" Rendimiento="18" Fabricante="Porsche" />
+  <ex:Carro Nombre="Ghost" Rendimiento="15" Fabricante="Rolls-Royce Motor Cars Limited" />
+  <ex:Carro Nombre="Ghost EWB" Rendimiento="15" Fabricante="Rolls-Royce Motor Cars Limited" />
+  <ex:Carro Nombre="Phantom" Rendimiento="14" Fabricante="Rolls-Royce Motor Cars Limited" />
+  <ex:Carro Nombre="Phantom EWB" Rendimiento="14" Fabricante="Rolls-Royce Motor Cars Limited" />
+  <ex:Carro Nombre="allroad quattro" Rendimiento="24" Fabricante="Audi" />
+  <ex:Carro Nombre="328d xDrive Sports Wagon" Rendimiento="34" Fabricante="BMW" />
+  <ex:Carro Nombre="328i xDrive Sports Wagon" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="SONIC 5" Rendimiento="31" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="SONIC 5" Rendimiento="33" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="SONIC 5" Rendimiento="28" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="SONIC 5" Rendimiento="30" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="500L" Rendimiento="25" Fabricante="FIAT" />
+  <ex:Carro Nombre="500L" Rendimiento="28" Fabricante="FIAT" />
+  <ex:Carro Nombre="FIT" Rendimiento="36" Fabricante="Honda" />
+  <ex:Carro Nombre="FIT" Rendimiento="35" Fabricante="Honda" />
+  <ex:Carro Nombre="FIT" Rendimiento="32" Fabricante="Honda" />
+  <ex:Carro Nombre="QX50" Rendimiento="20" Fabricante="INFINITI" />
+  <ex:Carro Nombre="QX50 AWD" Rendimiento="20" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Soul" Rendimiento="26" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Soul" Rendimiento="26" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Soul" Rendimiento="27" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Soul ECO dynamics" Rendimiento="27" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="JUKE" Rendimiento="30" Fabricante="NISSAN" />
+  <ex:Carro Nombre="JUKE" Rendimiento="30" Fabricante="NISSAN" />
+  <ex:Carro Nombre="JUKE AWD" Rendimiento="28" Fabricante="NISSAN" />
+  <ex:Carro Nombre="JUKE NISMO RS" Rendimiento="27" Fabricante="NISSAN" />
+  <ex:Carro Nombre="JUKE NISMO RS AWD" Rendimiento="27" Fabricante="NISSAN" />
+  <ex:Carro Nombre="IMPREZA SPORT" Rendimiento="31" Fabricante="Subaru" />
+  <ex:Carro Nombre="IMPREZA SPORT" Rendimiento="28" Fabricante="Subaru" />
+  <ex:Carro Nombre="IMPREZA WAGON" Rendimiento="31" Fabricante="Subaru" />
+  <ex:Carro Nombre="IMPREZA WAGON" Rendimiento="28" Fabricante="Subaru" />
+  <ex:Carro Nombre="Golf SportWagen" Rendimiento="29" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Golf SportWagen" Rendimiento="29" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="V60 AWD" Rendimiento="25" Fabricante="Volvo" />
+  <ex:Carro Nombre="V60 AWD" Rendimiento="23" Fabricante="Volvo" />
+  <ex:Carro Nombre="V60 AWD" Rendimiento="21" Fabricante="Volvo" />
+  <ex:Carro Nombre="V60 FWD" Rendimiento="29" Fabricante="Volvo" />
+  <ex:Carro Nombre="V60 Polestar AWD" Rendimiento="21" Fabricante="Volvo" />
+  <ex:Carro Nombre="V60CC AWD" Rendimiento="23" Fabricante="Volvo" />
+  <ex:Carro Nombre="AMG E 63 S 4MATIC (stat. wagon)" Rendimiento="18" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="AMG GLA 45 4MATIC" Rendimiento="25" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="E 350 4Matic (Wagon)" Rendimiento="22" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="GLA 250" Rendimiento="29" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="MURANO AWD" Rendimiento="24" Fabricante="NISSAN" />
+  <ex:Carro Nombre="MURANO FWD" Rendimiento="24" Fabricante="NISSAN" />
+  <ex:Carro Nombre="MURANO Hybrid AWD" Rendimiento="28" Fabricante="NISSAN" />
+  <ex:Carro Nombre="MURANO Hybrid FWD" Rendimiento="29" Fabricante="NISSAN" />
+  <ex:Carro Nombre="PRIUS v" Rendimiento="42" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="COLORADO 2WD" Rendimiento="22" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="COLORADO 2WD" Rendimiento="22" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="COLORADO 2WD" Rendimiento="25" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="COLORADO 2WD" Rendimiento="21" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CANYON 2WD" Rendimiento="22" Fabricante="GMC" />
+  <ex:Carro Nombre="CANYON 2WD" Rendimiento="22" Fabricante="GMC" />
+  <ex:Carro Nombre="CANYON 2WD" Rendimiento="25" Fabricante="GMC" />
+  <ex:Carro Nombre="CANYON 2WD" Rendimiento="21" Fabricante="GMC" />
+  <ex:Carro Nombre="FRONTIER 2WD" Rendimiento="19" Fabricante="NISSAN" />
+  <ex:Carro Nombre="FRONTIER 2WD" Rendimiento="21" Fabricante="NISSAN" />
+  <ex:Carro Nombre="FRONTIER 2WD" Rendimiento="18" Fabricante="NISSAN" />
+  <ex:Carro Nombre="FRONTIER 2WD" Rendimiento="19" Fabricante="NISSAN" />
+  <ex:Carro Nombre="TACOMA 2WD" Rendimiento="21" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="TACOMA 2WD" Rendimiento="21" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="COLORADO 4WD" Rendimiento="21" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="COLORADO 4WD" Rendimiento="23" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="COLORADO 4WD" Rendimiento="20" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="CANYON 4WD" Rendimiento="21" Fabricante="GMC" />
+  <ex:Carro Nombre="CANYON 4WD" Rendimiento="23" Fabricante="GMC" />
+  <ex:Carro Nombre="CANYON 4WD" Rendimiento="20" Fabricante="GMC" />
+  <ex:Carro Nombre="FRONTIER 4WD" Rendimiento="17" Fabricante="NISSAN" />
+  <ex:Carro Nombre="FRONTIER 4WD" Rendimiento="18" Fabricante="NISSAN" />
+  <ex:Carro Nombre="TACOMA 4WD" Rendimiento="20" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="TACOMA 4WD" Rendimiento="20" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="TACOMA 4WD" Rendimiento="20" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="TACOMA 4WD" Rendimiento="19" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="Tacoma 4WD Double Cab" Rendimiento="18" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="C15 SILVERADO 2WD" Rendimiento="20" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="C15 SILVERADO 2WD" Rendimiento="19" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="C15 SILVERADO 2WD" Rendimiento="19" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="C15 SILVERADO 2WD" Rendimiento="20" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="C15 SILVERADO 2WD" Rendimiento="18" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="C15 SILVERADO 2WD" Rendimiento="17" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="F150 2.7L 2WD GVWR&gt;6649 LBS PAYLOAD PACKAGE" Rendimiento="21" Fabricante="Ford" />
+  <ex:Carro Nombre="F150 2WD" Rendimiento="22" Fabricante="Ford" />
+  <ex:Carro Nombre="F150 2WD" Rendimiento="20" Fabricante="Ford" />
+  <ex:Carro Nombre="F150 2WD FFV" Rendimiento="20" Fabricante="Ford" />
+  <ex:Carro Nombre="F150 2WD FFV" Rendimiento="18" Fabricante="Ford" />
+  <ex:Carro Nombre="F150 3.5L 2WD GVWR&gt;7599 LBS PAYLOAD PACKAGE" Rendimiento="18" Fabricante="Ford" />
+  <ex:Carro Nombre="F150 5.0L 2WD FFV GVWR&gt;7599 LBS PAYLOAD PACKAGE" Rendimiento="16" Fabricante="Ford" />
+  <ex:Carro Nombre="C15 SIERRA 2WD" Rendimiento="20" Fabricante="GMC" />
+  <ex:Carro Nombre="C15 SIERRA 2WD" Rendimiento="19" Fabricante="GMC" />
+  <ex:Carro Nombre="C15 SIERRA 2WD" Rendimiento="19" Fabricante="GMC" />
+  <ex:Carro Nombre="C15 SIERRA 2WD" Rendimiento="20" Fabricante="GMC" />
+  <ex:Carro Nombre="C15 SIERRA 2WD" Rendimiento="18" Fabricante="GMC" />
+  <ex:Carro Nombre="C15 SIERRA 2WD" Rendimiento="17" Fabricante="GMC" />
+  <ex:Carro Nombre="1500 4X2" Rendimiento="23" Fabricante="RAM" />
+  <ex:Carro Nombre="1500 4X2" Rendimiento="20" Fabricante="RAM" />
+  <ex:Carro Nombre="1500 4X2" Rendimiento="16" Fabricante="RAM" />
+  <ex:Carro Nombre="1500 4X2" Rendimiento="17" Fabricante="RAM" />
+  <ex:Carro Nombre="1500 HFE 4X2" Rendimiento="24" Fabricante="RAM" />
+  <ex:Carro Nombre="1500 HFE 4X2" Rendimiento="21" Fabricante="RAM" />
+  <ex:Carro Nombre="F150 Pickup 2WD" Rendimiento="13" Fabricante="Roush" />
+  <ex:Carro Nombre="TUNDRA 2WD" Rendimiento="16" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="TUNDRA 2WD" Rendimiento="15" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="TUNDRA 2WD FFV" Rendimiento="15" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="K15 SILVERADO 4WD" Rendimiento="19" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="K15 SILVERADO 4WD" Rendimiento="18" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="K15 SILVERADO 4WD" Rendimiento="18" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="K15 SILVERADO 4WD" Rendimiento="18" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="K15 SILVERADO 4WD" Rendimiento="17" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="K15 SILVERADO 4WD" Rendimiento="17" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="F150 2.7L 4WD GVWR&gt;6799 LBS PAYLOAD PACKAGE" Rendimiento="19" Fabricante="Ford" />
+  <ex:Carro Nombre="F150 3.5L 4WD GVWR&gt;7599 LBS PAYLOAD PACKAGE" Rendimiento="17" Fabricante="Ford" />
+  <ex:Carro Nombre="F150 4WD" Rendimiento="20" Fabricante="Ford" />
+  <ex:Carro Nombre="F150 4WD" Rendimiento="18" Fabricante="Ford" />
+  <ex:Carro Nombre="F150 4WD FFV" Rendimiento="19" Fabricante="Ford" />
+  <ex:Carro Nombre="F150 4WD FFV" Rendimiento="17" Fabricante="Ford" />
+  <ex:Carro Nombre="F150 5.0L 4WD FFV GVWR&gt;7599 LBS PAYLOAD PACKAGE" Rendimiento="16" Fabricante="Ford" />
+  <ex:Carro Nombre="K15 SIERRA 4WD" Rendimiento="19" Fabricante="GMC" />
+  <ex:Carro Nombre="K15 SIERRA 4WD" Rendimiento="18" Fabricante="GMC" />
+  <ex:Carro Nombre="K15 SIERRA 4WD" Rendimiento="18" Fabricante="GMC" />
+  <ex:Carro Nombre="K15 SIERRA 4WD" Rendimiento="18" Fabricante="GMC" />
+  <ex:Carro Nombre="K15 SIERRA 4WD" Rendimiento="17" Fabricante="GMC" />
+  <ex:Carro Nombre="K15 SIERRA 4WD" Rendimiento="17" Fabricante="GMC" />
+  <ex:Carro Nombre="1500 4X4" Rendimiento="22" Fabricante="RAM" />
+  <ex:Carro Nombre="1500 4X4" Rendimiento="19" Fabricante="RAM" />
+  <ex:Carro Nombre="1500 4X4" Rendimiento="15" Fabricante="RAM" />
+  <ex:Carro Nombre="1500 4X4" Rendimiento="17" Fabricante="RAM" />
+  <ex:Carro Nombre="F150 Pickup 4WD" Rendimiento="13" Fabricante="Roush" />
+  <ex:Carro Nombre="TUNDRA 4WD" Rendimiento="16" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="TUNDRA 4WD" Rendimiento="15" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="TUNDRA 4WD FFV" Rendimiento="15" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="G2500 EXPRESS 2WD PASS MDPV" Rendimiento="13" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="G3500 EXPRESS 2WD PASS MDPV" Rendimiento="12" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="Transit T150 Wagon" Rendimiento="16" Fabricante="Ford" />
+  <ex:Carro Nombre="Transit T150 Wagon FFV" Rendimiento="16" Fabricante="Ford" />
+  <ex:Carro Nombre="G2500 SAVANA 2WD PASS MDPV" Rendimiento="13" Fabricante="GMC" />
+  <ex:Carro Nombre="G3500 SAVANA 2WD PASS MDPV" Rendimiento="12" Fabricante="GMC" />
+  <ex:Carro Nombre="XTS HEARSE" Rendimiento="17" Fabricante="Cadillac" />
+  <ex:Carro Nombre="XTS LIMO" Rendimiento="17" Fabricante="Cadillac" />
+  <ex:Carro Nombre="City Express Cargo Van" Rendimiento="25" Fabricante="CHEVROLET" />
+  <ex:Carro Nombre="Transit Connect Van 2WD" Rendimiento="25" Fabricante="Ford" />
+  <ex:Carro Nombre="Transit Connect Van 2WD" Rendimiento="23" Fabricante="Ford" />
+  <ex:Carro Nombre="TRANSIT CONNECT VAN FFV" Rendimiento="23" Fabricante="Ford" />
+  <ex:Carro Nombre="TRANSIT CONNECT WAGON FFV" Rendimiento="22" Fabricante="Ford" />
+  <ex:Carro Nombre="TRANSIT CONNECT WAGON FWD" Rendimiento="25" Fabricante="Ford" />
+  <ex:Carro Nombre="TRANSIT CONNECT WAGON FWD" Rendimiento="22" Fabricante="Ford" />
+  <ex:Carro Nombre="TRANSIT CONNECT WAGON LWB FFV" Rendimiento="22" Fabricante="Ford" />
+  <ex:Carro Nombre="Transit Connect Wagon LWB FWD" Rendimiento="22" Fabricante="Ford" />
+  <ex:Carro Nombre="MKT LIVERY FWD" Rendimiento="21" Fabricante="Lincoln" />
+  <ex:Carro Nombre="Metris (Cargo Van)" Rendimiento="22" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="Metris (Passenger Van)" Rendimiento="22" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="NV200 Cargo Van" Rendimiento="25" Fabricante="NISSAN" />
+  <ex:Carro Nombre="NV200 NYC Taxi" Rendimiento="24" Fabricante="NISSAN" />
+  <ex:Carro Nombre="Promaster City" Rendimiento="24" Fabricante="RAM" />
+  <ex:Carro Nombre="MKT LIVERY AWD" Rendimiento="18" Fabricante="Lincoln" />
+  <ex:Carro Nombre="C15 SILVERADO 2WD CAB CHASSIS" Rendimiento="17" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="COLORADO CAB CHASSIS 2WD" Rendimiento="16" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="K15 SILVERADO 4WD CAB CHASSIS" Rendimiento="17" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="C15 SIERRA 2WD CAB CHASSIS" Rendimiento="17" Fabricante="GMC" />
+  <ex:Carro Nombre="CANYON CAB CHASSIS 2WD" Rendimiento="16" Fabricante="GMC" />
+  <ex:Carro Nombre="K15 SIERRA 4WD CAB CHASSIS" Rendimiento="17" Fabricante="GMC" />
+  <ex:Carro Nombre="Town &amp; Country" Rendimiento="20" Fabricante="Chrysler" />
+  <ex:Carro Nombre="Town &amp; Country" Rendimiento="20" Fabricante="Chrysler" />
+  <ex:Carro Nombre="Grand Caravan" Rendimiento="20" Fabricante="Dodge" />
+  <ex:Carro Nombre="Grand Caravan" Rendimiento="20" Fabricante="Dodge" />
+  <ex:Carro Nombre="ODYSSEY 2WD" Rendimiento="22" Fabricante="Honda" />
+  <ex:Carro Nombre="Sedona" Rendimiento="20" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Sedona SX" Rendimiento="21" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Sedona SXL" Rendimiento="19" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="QUEST" Rendimiento="23" Fabricante="NISSAN" />
+  <ex:Carro Nombre="SIENNA" Rendimiento="21" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="SIENNA AWD" Rendimiento="19" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="MDX 2WD" Rendimiento="22" Fabricante="Acura" />
+  <ex:Carro Nombre="MDX 2WD" Rendimiento="23" Fabricante="Acura" />
+  <ex:Carro Nombre="RDX 2WD" Rendimiento="23" Fabricante="Acura" />
+  <ex:Carro Nombre="X3 sDrive 28i" Rendimiento="24" Fabricante="BMW" />
+  <ex:Carro Nombre="ENCORE" Rendimiento="30" Fabricante="Buick" />
+  <ex:Carro Nombre="ENCORE" Rendimiento="28" Fabricante="Buick" />
+  <ex:Carro Nombre="EQUINOX FWD" Rendimiento="26" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="EQUINOX FWD" Rendimiento="26" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="EQUINOX FWD" Rendimiento="20" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="TRAX" Rendimiento="29" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="Journey" Rendimiento="21" Fabricante="Dodge" />
+  <ex:Carro Nombre="Journey" Rendimiento="19" Fabricante="Dodge" />
+  <ex:Carro Nombre="500X" Rendimiento="28" Fabricante="FIAT" />
+  <ex:Carro Nombre="500X" Rendimiento="25" Fabricante="FIAT" />
+  <ex:Carro Nombre="EDGE FWD" Rendimiento="24" Fabricante="Ford" />
+  <ex:Carro Nombre="EDGE FWD" Rendimiento="24" Fabricante="Ford" />
+  <ex:Carro Nombre="EDGE FWD" Rendimiento="21" Fabricante="Ford" />
+  <ex:Carro Nombre="ESCAPE FWD" Rendimiento="26" Fabricante="Ford" />
+  <ex:Carro Nombre="ESCAPE FWD" Rendimiento="25" Fabricante="Ford" />
+  <ex:Carro Nombre="ESCAPE FWD" Rendimiento="25" Fabricante="Ford" />
+  <ex:Carro Nombre="TERRAIN FWD" Rendimiento="26" Fabricante="GMC" />
+  <ex:Carro Nombre="TERRAIN FWD" Rendimiento="26" Fabricante="GMC" />
+  <ex:Carro Nombre="TERRAIN FWD" Rendimiento="20" Fabricante="GMC" />
+  <ex:Carro Nombre="CR-V 2WD" Rendimiento="29" Fabricante="Honda" />
+  <ex:Carro Nombre="HR-V 2WD" Rendimiento="31" Fabricante="Honda" />
+  <ex:Carro Nombre="HR-V 2WD" Rendimiento="31" Fabricante="Honda" />
+  <ex:Carro Nombre="HR-V 2WD" Rendimiento="28" Fabricante="Honda" />
+  <ex:Carro Nombre="PILOT 2WD" Rendimiento="22" Fabricante="Honda" />
+  <ex:Carro Nombre="PILOT 2WD" Rendimiento="23" Fabricante="Honda" />
+  <ex:Carro Nombre="Santa Fe FWD" Rendimiento="21" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Santa Fe Sport FWD" Rendimiento="22" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Santa Fe Sport FWD" Rendimiento="23" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Santa Fe Sport ULTIMATE FWD" Rendimiento="22" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Santa Fe Ultimate FWD" Rendimiento="20" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Tucson Eco FWD" Rendimiento="29" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Tucson FWD" Rendimiento="27" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Tucson FWD" Rendimiento="26" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="QX60 FWD" Rendimiento="23" Fabricante="INFINITI" />
+  <ex:Carro Nombre="QX70 RWD" Rendimiento="19" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Cherokee FWD" Rendimiento="25" Fabricante="Jeep" />
+  <ex:Carro Nombre="Cherokee FWD" Rendimiento="25" Fabricante="Jeep" />
+  <ex:Carro Nombre="Cherokee FWD" Rendimiento="24" Fabricante="Jeep" />
+  <ex:Carro Nombre="Compass FWD" Rendimiento="24" Fabricante="Jeep" />
+  <ex:Carro Nombre="Compass FWD" Rendimiento="26" Fabricante="Jeep" />
+  <ex:Carro Nombre="Compass FWD" Rendimiento="23" Fabricante="Jeep" />
+  <ex:Carro Nombre="Compass FWD" Rendimiento="25" Fabricante="Jeep" />
+  <ex:Carro Nombre="Patriot FWD" Rendimiento="24" Fabricante="Jeep" />
+  <ex:Carro Nombre="Patriot FWD" Rendimiento="26" Fabricante="Jeep" />
+  <ex:Carro Nombre="Patriot FWD" Rendimiento="23" Fabricante="Jeep" />
+  <ex:Carro Nombre="Patriot FWD" Rendimiento="25" Fabricante="Jeep" />
+  <ex:Carro Nombre="Renegade 4x2" Rendimiento="27" Fabricante="Jeep" />
+  <ex:Carro Nombre="Renegade 4x2" Rendimiento="25" Fabricante="Jeep" />
+  <ex:Carro Nombre="Sorento FWD" Rendimiento="23" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Sorento FWD" Rendimiento="24" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Sorento FWD" Rendimiento="21" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Sportage FWD" Rendimiento="24" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Sportage SX FWD" Rendimiento="22" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="NX 200t" Rendimiento="25" Fabricante="LEXUS" />
+  <ex:Carro Nombre="NX 300h" Rendimiento="33" Fabricante="LEXUS" />
+  <ex:Carro Nombre="RX 350" Rendimiento="23" Fabricante="LEXUS" />
+  <ex:Carro Nombre="RX 450h" Rendimiento="30" Fabricante="LEXUS" />
+  <ex:Carro Nombre="MKC  FWD" Rendimiento="23" Fabricante="Lincoln" />
+  <ex:Carro Nombre="MKX FWD" Rendimiento="21" Fabricante="Lincoln" />
+  <ex:Carro Nombre="MKX FWD" Rendimiento="20" Fabricante="Lincoln" />
+  <ex:Carro Nombre="CX-5 2WD" Rendimiento="29" Fabricante="MAZDA" />
+  <ex:Carro Nombre="CX-5 2WD" Rendimiento="29" Fabricante="MAZDA" />
+  <ex:Carro Nombre="GLC 300" Rendimiento="24" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="OUTLANDER 2WD" Rendimiento="27" Fabricante="Mitsubishi Motors Corporation" />
+  <ex:Carro Nombre="OUTLANDER SPORT 2WD" Rendimiento="27" Fabricante="Mitsubishi Motors Corporation" />
+  <ex:Carro Nombre="OUTLANDER SPORT 2WD" Rendimiento="25" Fabricante="Mitsubishi Motors Corporation" />
+  <ex:Carro Nombre="OUTLANDER SPORT 2WD" Rendimiento="25" Fabricante="Mitsubishi Motors Corporation" />
+  <ex:Carro Nombre="PATHFINDER 2WD" Rendimiento="23" Fabricante="NISSAN" />
+  <ex:Carro Nombre="ROGUE FWD" Rendimiento="28" Fabricante="NISSAN" />
+  <ex:Carro Nombre="HIGHLANDER" Rendimiento="22" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="HIGHLANDER" Rendimiento="21" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="RAV4" Rendimiento="26" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="RAV4 LE/XLE" Rendimiento="26" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="Tiguan" Rendimiento="23" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="XC60 FWD" Rendimiento="26" Fabricante="Volvo" />
+  <ex:Carro Nombre="XC60 FWD" Rendimiento="24" Fabricante="Volvo" />
+  <ex:Carro Nombre="XC70 FWD" Rendimiento="26" Fabricante="Volvo" />
+  <ex:Carro Nombre="MDX 4WD" Rendimiento="22" Fabricante="Acura" />
+  <ex:Carro Nombre="MDX 4WD" Rendimiento="21" Fabricante="Acura" />
+  <ex:Carro Nombre="RDX 4WD" Rendimiento="22" Fabricante="Acura" />
+  <ex:Carro Nombre="Q5" Rendimiento="23" Fabricante="Audi" />
+  <ex:Carro Nombre="Q5" Rendimiento="27" Fabricante="Audi" />
+  <ex:Carro Nombre="Q5" Rendimiento="21" Fabricante="Audi" />
+  <ex:Carro Nombre="Q5 Hybrid" Rendimiento="26" Fabricante="Audi" />
+  <ex:Carro Nombre="SQ5" Rendimiento="19" Fabricante="Audi" />
+  <ex:Carro Nombre="X3 xDrive28d" Rendimiento="30" Fabricante="BMW" />
+  <ex:Carro Nombre="X3 xDrive28i" Rendimiento="24" Fabricante="BMW" />
+  <ex:Carro Nombre="X3 xDrive35i" Rendimiento="22" Fabricante="BMW" />
+  <ex:Carro Nombre="X4 M40i" Rendimiento="21" Fabricante="BMW" />
+  <ex:Carro Nombre="X4 xDrive28i" Rendimiento="23" Fabricante="BMW" />
+  <ex:Carro Nombre="X4 xDrive35i" Rendimiento="22" Fabricante="BMW" />
+  <ex:Carro Nombre="ENCORE AWD" Rendimiento="29" Fabricante="Buick" />
+  <ex:Carro Nombre="ENCORE AWD" Rendimiento="26" Fabricante="Buick" />
+  <ex:Carro Nombre="ENVISION AWD" Rendimiento="22" Fabricante="Buick" />
+  <ex:Carro Nombre="EQUINOX AWD" Rendimiento="23" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="EQUINOX AWD" Rendimiento="23" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="EQUINOX AWD" Rendimiento="18" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="TRAX AWD" Rendimiento="27" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="Journey AWD" Rendimiento="19" Fabricante="Dodge" />
+  <ex:Carro Nombre="500X AWD" Rendimiento="24" Fabricante="FIAT" />
+  <ex:Carro Nombre="EDGE AWD" Rendimiento="23" Fabricante="Ford" />
+  <ex:Carro Nombre="EDGE AWD" Rendimiento="20" Fabricante="Ford" />
+  <ex:Carro Nombre="EDGE AWD" Rendimiento="20" Fabricante="Ford" />
+  <ex:Carro Nombre="ESCAPE AWD" Rendimiento="25" Fabricante="Ford" />
+  <ex:Carro Nombre="ESCAPE AWD" Rendimiento="23" Fabricante="Ford" />
+  <ex:Carro Nombre="TERRAIN AWD" Rendimiento="23" Fabricante="GMC" />
+  <ex:Carro Nombre="TERRAIN AWD" Rendimiento="18" Fabricante="GMC" />
+  <ex:Carro Nombre="CR-V 4WD" Rendimiento="27" Fabricante="Honda" />
+  <ex:Carro Nombre="HR-V 4WD" Rendimiento="29" Fabricante="Honda" />
+  <ex:Carro Nombre="HR-V 4WD" Rendimiento="29" Fabricante="Honda" />
+  <ex:Carro Nombre="PILOT 4WD" Rendimiento="21" Fabricante="Honda" />
+  <ex:Carro Nombre="PILOT 4WD" Rendimiento="22" Fabricante="Honda" />
+  <ex:Carro Nombre="Santa Fe AWD" Rendimiento="20" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Santa Fe Sport AWD" Rendimiento="21" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Santa Fe Sport AWD" Rendimiento="21" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Santa Fe Ultimate AWD" Rendimiento="19" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Tucson AWD" Rendimiento="26" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Tucson AWD" Rendimiento="23" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="Tucson Eco AWD" Rendimiento="27" Fabricante="HYUNDAI MOTOR COMPANY" />
+  <ex:Carro Nombre="QX60 AWD" Rendimiento="22" Fabricante="INFINITI" />
+  <ex:Carro Nombre="QX70 AWD" Rendimiento="18" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Cherokee 4X4" Rendimiento="24" Fabricante="Jeep" />
+  <ex:Carro Nombre="Cherokee 4X4" Rendimiento="24" Fabricante="Jeep" />
+  <ex:Carro Nombre="Cherokee 4X4" Rendimiento="23" Fabricante="Jeep" />
+  <ex:Carro Nombre="Cherokee 4x4 Active Drive II" Rendimiento="23" Fabricante="Jeep" />
+  <ex:Carro Nombre="Cherokee 4x4 Active Drive II" Rendimiento="22" Fabricante="Jeep" />
+  <ex:Carro Nombre="Cherokee Trailhawk 4X4" Rendimiento="22" Fabricante="Jeep" />
+  <ex:Carro Nombre="Cherokee Trailhawk 4X4" Rendimiento="22" Fabricante="Jeep" />
+  <ex:Carro Nombre="Compass 4X4" Rendimiento="22" Fabricante="Jeep" />
+  <ex:Carro Nombre="Compass 4X4" Rendimiento="21" Fabricante="Jeep" />
+  <ex:Carro Nombre="Compass 4X4" Rendimiento="24" Fabricante="Jeep" />
+  <ex:Carro Nombre="Patriot 4X4" Rendimiento="22" Fabricante="Jeep" />
+  <ex:Carro Nombre="Patriot 4X4" Rendimiento="21" Fabricante="Jeep" />
+  <ex:Carro Nombre="Patriot 4X4" Rendimiento="24" Fabricante="Jeep" />
+  <ex:Carro Nombre="Renegade 4x4" Rendimiento="27" Fabricante="Jeep" />
+  <ex:Carro Nombre="Renegade 4x4" Rendimiento="24" Fabricante="Jeep" />
+  <ex:Carro Nombre="Wrangler 4X4" Rendimiento="18" Fabricante="Jeep" />
+  <ex:Carro Nombre="Wrangler 4X4" Rendimiento="18" Fabricante="Jeep" />
+  <ex:Carro Nombre="Wrangler Unlimited 4X4" Rendimiento="18" Fabricante="Jeep" />
+  <ex:Carro Nombre="Wrangler Unlimited 4X4" Rendimiento="18" Fabricante="Jeep" />
+  <ex:Carro Nombre="Sorento AWD" Rendimiento="22" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Sorento AWD" Rendimiento="23" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Sorento AWD" Rendimiento="19" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Sorento AWD FE" Rendimiento="21" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Sportage AWD" Rendimiento="22" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Sportage SX AWD" Rendimiento="21" Fabricante="KIA MOTORS CORPORATION" />
+  <ex:Carro Nombre="Discovery Sport" Rendimiento="22" Fabricante="Land Rover" />
+  <ex:Carro Nombre="Range Rover Evoque" Rendimiento="24" Fabricante="Land Rover" />
+  <ex:Carro Nombre="NX 200t AWD" Rendimiento="24" Fabricante="LEXUS" />
+  <ex:Carro Nombre="NX 200t AWD F SPORT" Rendimiento="24" Fabricante="LEXUS" />
+  <ex:Carro Nombre="NX 300h AWD" Rendimiento="32" Fabricante="LEXUS" />
+  <ex:Carro Nombre="RX 350 AWD" Rendimiento="22" Fabricante="LEXUS" />
+  <ex:Carro Nombre="MKC  AWD" Rendimiento="22" Fabricante="Lincoln" />
+  <ex:Carro Nombre="MKC  AWD" Rendimiento="21" Fabricante="Lincoln" />
+  <ex:Carro Nombre="MKX AWD" Rendimiento="19" Fabricante="Lincoln" />
+  <ex:Carro Nombre="MKX AWD" Rendimiento="19" Fabricante="Lincoln" />
+  <ex:Carro Nombre="CX-5 4WD" Rendimiento="26" Fabricante="MAZDA" />
+  <ex:Carro Nombre="GLA 250 4MATIC" Rendimiento="27" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="GLA 250 4MATIC" Rendimiento="27" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="GLC 300 4MATIC" Rendimiento="24" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="OUTLANDER 4WD" Rendimiento="26" Fabricante="Mitsubishi Motors Corporation" />
+  <ex:Carro Nombre="OUTLANDER 4WD" Rendimiento="23" Fabricante="Mitsubishi Motors Corporation" />
+  <ex:Carro Nombre="OUTLANDER SPORT 4WD" Rendimiento="26" Fabricante="Mitsubishi Motors Corporation" />
+  <ex:Carro Nombre="OUTLANDER SPORT 4WD" Rendimiento="24" Fabricante="Mitsubishi Motors Corporation" />
+  <ex:Carro Nombre="PATHFINDER 4WD" Rendimiento="22" Fabricante="NISSAN" />
+  <ex:Carro Nombre="PATHFINDER 4WD PLATINUM" Rendimiento="21" Fabricante="NISSAN" />
+  <ex:Carro Nombre="ROGUE AWD" Rendimiento="28" Fabricante="NISSAN" />
+  <ex:Carro Nombre="Macan S" Rendimiento="19" Fabricante="Porsche" />
+  <ex:Carro Nombre="Macan Turbo" Rendimiento="19" Fabricante="Porsche" />
+  <ex:Carro Nombre="CROSSTREK" Rendimiento="29" Fabricante="Subaru" />
+  <ex:Carro Nombre="CROSSTREK" Rendimiento="26" Fabricante="Subaru" />
+  <ex:Carro Nombre="CROSSTREK HYBRID" Rendimiento="31" Fabricante="Subaru" />
+  <ex:Carro Nombre="FORESTER" Rendimiento="25" Fabricante="Subaru" />
+  <ex:Carro Nombre="FORESTER" Rendimiento="27" Fabricante="Subaru" />
+  <ex:Carro Nombre="FORESTER" Rendimiento="25" Fabricante="Subaru" />
+  <ex:Carro Nombre="OUTBACK" Rendimiento="28" Fabricante="Subaru" />
+  <ex:Carro Nombre="OUTBACK" Rendimiento="22" Fabricante="Subaru" />
+  <ex:Carro Nombre="RAV4 AWD" Rendimiento="25" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="RAV4 HYBRID AWD" Rendimiento="33" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="RAV4 Limited AWD/SE AWD" Rendimiento="25" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="Tiguan 4Motion" Rendimiento="23" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="XC60 AWD" Rendimiento="22" Fabricante="Volvo" />
+  <ex:Carro Nombre="XC60 AWD" Rendimiento="22" Fabricante="Volvo" />
+  <ex:Carro Nombre="XC60 AWD" Rendimiento="20" Fabricante="Volvo" />
+  <ex:Carro Nombre="XC70 AWD" Rendimiento="22" Fabricante="Volvo" />
+  <ex:Carro Nombre="X5 sDrive35i" Rendimiento="21" Fabricante="BMW" />
+  <ex:Carro Nombre="X6 sDrive35i" Rendimiento="21" Fabricante="BMW" />
+  <ex:Carro Nombre="ENCLAVE FWD" Rendimiento="18" Fabricante="Buick" />
+  <ex:Carro Nombre="ESCALADE 2WD" Rendimiento="17" Fabricante="Cadillac" />
+  <ex:Carro Nombre="SRX" Rendimiento="19" Fabricante="Cadillac" />
+  <ex:Carro Nombre="C1500 SUBURBAN 2WD" Rendimiento="18" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="C1500 SUBURBAN 2WD" Rendimiento="18" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="C1500 TAHOE 2WD" Rendimiento="18" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="C1500 TAHOE 2WD" Rendimiento="18" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="TRAVERSE FWD" Rendimiento="18" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="Durango RWD" Rendimiento="22" Fabricante="Dodge" />
+  <ex:Carro Nombre="Durango RWD" Rendimiento="17" Fabricante="Dodge" />
+  <ex:Carro Nombre="Expedition 2WD" Rendimiento="18" Fabricante="Ford" />
+  <ex:Carro Nombre="Expedition EL 2WD" Rendimiento="17" Fabricante="Ford" />
+  <ex:Carro Nombre="EXPLORER FFV 2WD" Rendimiento="20" Fabricante="Ford" />
+  <ex:Carro Nombre="EXPLORER FWD" Rendimiento="22" Fabricante="Ford" />
+  <ex:Carro Nombre="EXPLORER FWD" Rendimiento="20" Fabricante="Ford" />
+  <ex:Carro Nombre="Flex FWD" Rendimiento="19" Fabricante="Ford" />
+  <ex:Carro Nombre="ACADIA FWD" Rendimiento="18" Fabricante="GMC" />
+  <ex:Carro Nombre="C1500 YUKON 2WD" Rendimiento="18" Fabricante="GMC" />
+  <ex:Carro Nombre="C1500 YUKON 2WD" Rendimiento="18" Fabricante="GMC" />
+  <ex:Carro Nombre="C1500 YUKON 2WD" Rendimiento="17" Fabricante="GMC" />
+  <ex:Carro Nombre="C1500 YUKON XL 2WD" Rendimiento="18" Fabricante="GMC" />
+  <ex:Carro Nombre="C1500 YUKON XL 2WD" Rendimiento="18" Fabricante="GMC" />
+  <ex:Carro Nombre="C1500 YUKON XL 2WD" Rendimiento="17" Fabricante="GMC" />
+  <ex:Carro Nombre="QX60 Hybrid FWD" Rendimiento="26" Fabricante="INFINITI" />
+  <ex:Carro Nombre="QX80 2WD" Rendimiento="16" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Grand Cherokee 4X2" Rendimiento="25" Fabricante="Jeep" />
+  <ex:Carro Nombre="Grand Cherokee 4X2" Rendimiento="22" Fabricante="Jeep" />
+  <ex:Carro Nombre="MKT FWD" Rendimiento="19" Fabricante="Lincoln" />
+  <ex:Carro Nombre="Navigator 2WD" Rendimiento="18" Fabricante="Lincoln" />
+  <ex:Carro Nombre="Navigator L 2WD" Rendimiento="17" Fabricante="Lincoln" />
+  <ex:Carro Nombre="GLE 350" Rendimiento="20" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="4RUNNER 2WD" Rendimiento="19" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="SEQUOIA 2WD" Rendimiento="15" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="XC90 FWD" Rendimiento="24" Fabricante="Volvo" />
+  <ex:Carro Nombre="X5 M" Rendimiento="16" Fabricante="BMW" />
+  <ex:Carro Nombre="X5 xDrive 35d" Rendimiento="26" Fabricante="BMW" />
+  <ex:Carro Nombre="X5 xDrive35i" Rendimiento="20" Fabricante="BMW" />
+  <ex:Carro Nombre="X5 xDrive50i" Rendimiento="17" Fabricante="BMW" />
+  <ex:Carro Nombre="X6 M" Rendimiento="16" Fabricante="BMW" />
+  <ex:Carro Nombre="X6 xDrive35i" Rendimiento="20" Fabricante="BMW" />
+  <ex:Carro Nombre="X6 xDrive50i" Rendimiento="17" Fabricante="BMW" />
+  <ex:Carro Nombre="ENCLAVE AWD" Rendimiento="17" Fabricante="Buick" />
+  <ex:Carro Nombre="ESCALADE 4WD" Rendimiento="17" Fabricante="Cadillac" />
+  <ex:Carro Nombre="SRX AWD" Rendimiento="18" Fabricante="Cadillac" />
+  <ex:Carro Nombre="K1500 SUBURBAN 4WD" Rendimiento="18" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="K1500 SUBURBAN 4WD" Rendimiento="18" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="K1500 TAHOE 4WD" Rendimiento="18" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="K1500 TAHOE 4WD" Rendimiento="18" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="TRAVERSE AWD" Rendimiento="17" Fabricante="Chevrolet" />
+  <ex:Carro Nombre="Durango AWD" Rendimiento="21" Fabricante="Dodge" />
+  <ex:Carro Nombre="Durango AWD" Rendimiento="17" Fabricante="Dodge" />
+  <ex:Carro Nombre="Expedition 4WD" Rendimiento="17" Fabricante="Ford" />
+  <ex:Carro Nombre="Expedition EL 4WD" Rendimiento="16" Fabricante="Ford" />
+  <ex:Carro Nombre="EXPLORER AWD" Rendimiento="21" Fabricante="Ford" />
+  <ex:Carro Nombre="EXPLORER AWD" Rendimiento="18" Fabricante="Ford" />
+  <ex:Carro Nombre="EXPLORER AWD" Rendimiento="19" Fabricante="Ford" />
+  <ex:Carro Nombre="EXPLORER FFV AWD" Rendimiento="19" Fabricante="Ford" />
+  <ex:Carro Nombre="FLEX AWD" Rendimiento="18" Fabricante="Ford" />
+  <ex:Carro Nombre="FLEX AWD" Rendimiento="17" Fabricante="Ford" />
+  <ex:Carro Nombre="ACADIA AWD" Rendimiento="17" Fabricante="GMC" />
+  <ex:Carro Nombre="K1500 YUKON 4WD" Rendimiento="18" Fabricante="GMC" />
+  <ex:Carro Nombre="K1500 YUKON 4WD" Rendimiento="18" Fabricante="GMC" />
+  <ex:Carro Nombre="K1500 YUKON 4WD" Rendimiento="17" Fabricante="GMC" />
+  <ex:Carro Nombre="K1500 YUKON XL 4WD" Rendimiento="18" Fabricante="GMC" />
+  <ex:Carro Nombre="K1500 YUKON XL 4WD" Rendimiento="18" Fabricante="GMC" />
+  <ex:Carro Nombre="K1500 YUKON XL 4WD" Rendimiento="16" Fabricante="GMC" />
+  <ex:Carro Nombre="QX60 Hybrid AWD" Rendimiento="26" Fabricante="INFINITI" />
+  <ex:Carro Nombre="QX80 4WD" Rendimiento="15" Fabricante="INFINITI" />
+  <ex:Carro Nombre="Grand Cherokee 4X4" Rendimiento="24" Fabricante="Jeep" />
+  <ex:Carro Nombre="Grand Cherokee 4X4" Rendimiento="21" Fabricante="Jeep" />
+  <ex:Carro Nombre="Grand Cherokee 4X4" Rendimiento="17" Fabricante="Jeep" />
+  <ex:Carro Nombre="Grand Cherokee SRT8 4x4" Rendimiento="15" Fabricante="Jeep" />
+  <ex:Carro Nombre="LR4" Rendimiento="16" Fabricante="Land Rover" />
+  <ex:Carro Nombre="Range Rover" Rendimiento="19" Fabricante="Land Rover" />
+  <ex:Carro Nombre="Range Rover" Rendimiento="16" Fabricante="Land Rover" />
+  <ex:Carro Nombre="Range Rover LWB" Rendimiento="19" Fabricante="Land Rover" />
+  <ex:Carro Nombre="Range Rover LWB" Rendimiento="16" Fabricante="Land Rover" />
+  <ex:Carro Nombre="Range Rover Sport" Rendimiento="19" Fabricante="Land Rover" />
+  <ex:Carro Nombre="Range Rover Sport" Rendimiento="16" Fabricante="Land Rover" />
+  <ex:Carro Nombre="Range Rover Sport TDV6" Rendimiento="25" Fabricante="Land Rover" />
+  <ex:Carro Nombre="Range Rover TDV6" Rendimiento="25" Fabricante="Land Rover" />
+  <ex:Carro Nombre="GX 460" Rendimiento="17" Fabricante="LEXUS" />
+  <ex:Carro Nombre="LX 570" Rendimiento="15" Fabricante="LEXUS" />
+  <ex:Carro Nombre="RX 450h AWD" Rendimiento="30" Fabricante="LEXUS" />
+  <ex:Carro Nombre="MKT AWD" Rendimiento="17" Fabricante="Lincoln" />
+  <ex:Carro Nombre="Navigator 4WD" Rendimiento="17" Fabricante="Lincoln" />
+  <ex:Carro Nombre="Navigator L 4WD" Rendimiento="16" Fabricante="Lincoln" />
+  <ex:Carro Nombre="AMG G 63" Rendimiento="13" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="AMG G65" Rendimiento="12" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="AMG GL 63" Rendimiento="14" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="AMG GLE 63" Rendimiento="15" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="AMG GLE 63 S" Rendimiento="15" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="AMG GLE 63 S (coupe)" Rendimiento="15" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="G 550" Rendimiento="13" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="GL 350 BLUETEC 4MATIC" Rendimiento="22" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="GL 450 4MATIC" Rendimiento="19" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="GL 550 4MATIC" Rendimiento="15" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="GLE 300 d 4MATIC" Rendimiento="24" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="GLE 350 4MATIC" Rendimiento="19" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="GLE 350 4MATIC" Rendimiento="19" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="GLE 350 d 4MATIC" Rendimiento="26" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="GLE 400 4MATIC" Rendimiento="20" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="GLE 450 AMG (coupe)" Rendimiento="20" Fabricante="Mercedes-Benz" />
+  <ex:Carro Nombre="Cayenne" Rendimiento="21" Fabricante="Porsche" />
+  <ex:Carro Nombre="Cayenne Diesel" Rendimiento="23" Fabricante="Porsche" />
+  <ex:Carro Nombre="Cayenne GTS" Rendimiento="19" Fabricante="Porsche" />
+  <ex:Carro Nombre="Cayenne S" Rendimiento="20" Fabricante="Porsche" />
+  <ex:Carro Nombre="Cayenne Turbo" Rendimiento="17" Fabricante="Porsche" />
+  <ex:Carro Nombre="Cayenne Turbo S" Rendimiento="17" Fabricante="Porsche" />
+  <ex:Carro Nombre="4RUNNER 4WD" Rendimiento="18" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="4RUNNER 4WD" Rendimiento="18" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="HIGHLANDER AWD" Rendimiento="20" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="HIGHLANDER HYBRID AWD" Rendimiento="28" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="HIGHLANDER HYBRID AWD LE Plus" Rendimiento="28" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="LAND CRUISER WAGON 4WD" Rendimiento="15" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="SEQUOIA 4WD" Rendimiento="14" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="SEQUOIA 4WD FFV" Rendimiento="14" Fabricante="TOYOTA" />
+  <ex:Carro Nombre="Touareg" Rendimiento="24" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="Touareg" Rendimiento="19" Fabricante="Volkswagen" />
+  <ex:Carro Nombre="XC90 AWD" Rendimiento="22" Fabricante="Volvo" />
+  <ex:Carro Nombre="XC90 AWD" Rendimiento="23" Fabricante="Volvo" />
+</Carros>

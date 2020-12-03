@@ -1,0 +1,12 @@
+C:\Users\edgar\source\repos\LinqEntityFramework\bin\Debug\LinqEntityFramework.exe.config
+C:\Users\edgar\source\repos\LinqEntityFramework\bin\Debug\LinqEntityFramework.exe
+C:\Users\edgar\source\repos\LinqEntityFramework\bin\Debug\LinqEntityFramework.pdb
+C:\Users\edgar\source\repos\LinqEntityFramework\obj\Debug\LinqEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\LinqEntityFramework\obj\Debug\LinqEntityFramework.exe
+C:\Users\edgar\source\repos\LinqEntityFramework\obj\Debug\LinqEntityFramework.pdb
+C:\Users\edgar\source\repos\LinqEntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\edgar\source\repos\LinqEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\edgar\source\repos\LinqEntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\edgar\source\repos\LinqEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\edgar\source\repos\LinqEntityFramework\obj\Debug\LinqEntityFramework.csprojAssemblyReference.cache
+C:\Users\edgar\source\repos\LinqEntityFramework\obj\Debug\LinqEntityFramework.csproj.CopyComplete

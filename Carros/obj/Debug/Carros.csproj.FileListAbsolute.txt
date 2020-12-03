@@ -1,0 +1,7 @@
+C:\Users\edgar\source\repos\Carros\bin\Debug\Carros.exe.config
+C:\Users\edgar\source\repos\Carros\bin\Debug\Carros.exe
+C:\Users\edgar\source\repos\Carros\bin\Debug\Carros.pdb
+C:\Users\edgar\source\repos\Carros\obj\Debug\Carros.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\Carros\obj\Debug\Carros.exe
+C:\Users\edgar\source\repos\Carros\obj\Debug\Carros.pdb
+C:\Users\edgar\source\repos\Carros\obj\Debug\Carros.csprojAssemblyReference.cache
